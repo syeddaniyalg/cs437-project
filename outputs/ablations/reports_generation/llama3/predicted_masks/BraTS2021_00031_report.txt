@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, heterogeneous tumor located in the frontal lobe with deep extension and bilateral involvement. The tumor exhibits a solid enhancing pattern with minimal infiltration into surrounding brain tissue. Morphologically, the tumor is highly irregular in shape, with a volume of approximately 71.99 mL. Texture analysis reveals high heterogeneity, characterized by a high entropy value (6.4882) and a low correlation coefficient (0.7679). The tumor's centroid is located at (-81.75, 116.35, 94.44) in MNI space.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and topographical information, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's high heterogeneity, irregular shape, and minimal infiltration into surrounding brain tissue are consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that a gross total resection may be feasible.
+* Focality: The multilocular nature of the tumor requires careful planning to ensure complete removal of all tumor foci.
+* Eloquent cortex risks: Due to the tumor's proximity to eloquent cortex, awake mapping techniques should be considered during surgery.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal contact (triggered by the graph's indication of ependymal involvement).
+	+ Cortical truncation to minimize radiation exposure to surrounding brain tissue.
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's high heterogeneity and minimal infiltration into surrounding brain tissue.
+
+Note: The above report is generated solely based on the provided Knowledge Graph context and does not incorporate any external information or clinical expertise.

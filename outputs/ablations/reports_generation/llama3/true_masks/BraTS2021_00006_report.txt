@@ -1,0 +1,29 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with significant infiltration into the occipital and temporal lobes. The tumor exhibits heterogeneous enhancement with necrotic regions and surrounding edema. The volumetric analysis reveals a very large tumor volume of 137.911 mL, with a proportion of enhancing tissue of 0.1918 and a proportion of necrosis of 0.1849. The texture features indicate high heterogeneity and irregularity.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's guidelines for necrosis forcing a higher grade and the texture entropy predicting an IDH-wildtype status.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size, location, and heterogeneity suggest that surgical resection may be challenging.
+* Focality: The tumor is unifocal, but its large size and infiltration into multiple lobes may require a more extensive resection.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain, including the tumor and surrounding edema, should be included in the radiation treatment plan.
+* Dose and fractionation: A standard glioblastoma regimen of 60 Gy in 30 fractions over 6 weeks is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) is a suitable first-line chemotherapy agent for glioblastoma, with a standard dose of 200 mg/m² daily for 5 days every 28 days.
+* Bevacizumab may be considered as a second-line therapy or in combination with TMZ.
+
+**Follow-up:**
+
+* MRI scans should be performed at regular intervals (e.g., every 2-3 months) to monitor the tumor's response to treatment and detect any potential recurrences.

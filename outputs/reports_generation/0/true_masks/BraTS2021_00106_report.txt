@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, measuring approximately 117mm in maximum diameter. The lesion exhibits solid enhancing features with a high peritumoral Flair ratio of 1.7202 and an edema-to-tumor contrast ratio of 2.1958, indicating significant surrounding edema. The tumor has ependymal contact and is situated near the ventricular system, requiring CTV expansion to include the ipsilateral ventricular wall. Cortical involvement is also detected, necessitating cortical truncation at the inner table of the skull.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma with an IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS). The tumor's location and features also raise the prior probability of IDH-mutant status.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability assessment: The lesion's size, shape, and proximity to eloquent cortex suggest a complex resection requiring awake craniotomy mapping to preserve speech.
+* Focality: The tumor is unifocal, allowing for a potentially curative resection.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include the ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Pseudo-response risk due to significant surrounding edema and necrosis.
+* Molecular management: IDH-mutant status should be confirmed, and targeted therapy considered as part of a comprehensive treatment plan.

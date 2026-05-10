@@ -1,0 +1,28 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, heterogeneous tumor located in the right frontal and temporal lobes with significant infiltration into the surrounding brain parenchyma. The tumor exhibits a solid enhancing pattern with high intensity on T1-weighted imaging and moderate to high intensity on FLAIR sequences. The volume of the tumor is very large, measuring approximately 71.56 mL, with a shape that can be characterized as highly irregular. The centroid of the tumor is located at MNI coordinates (-161.47, 124.31, 70.42) in the right hemisphere.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, the most likely diagnosis is a high-grade glioma, specifically a WHO Grade IV glioblastoma. The graph's triggered clinical guidelines support this conclusion, citing the tumor's large size, irregular shape, and solid enhancing pattern as indicative of aggressive behavior. Additionally, the graph highlights the presence of moderate to high heterogeneity, which further supports the diagnosis of a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that it may be challenging to resect completely, but surgical resection should still be considered as part of the overall treatment plan.
+* Focality: The tumor is unifocal, which suggests that a single surgical procedure may be sufficient.
+
+**Radiation Oncology:**
+
+* Radiation therapy should be considered as part of the treatment plan to control the tumor's growth and alleviate symptoms.
+
+**Chemotherapy:**
+
+* Chemotherapy should be considered as part of the treatment plan to target the tumor's aggressive behavior and improve patient outcomes.
+
+**Other Considerations:**
+
+* The graph highlights the importance of monitoring the patient's clinical status and imaging findings closely, as the tumor's heterogeneity and infiltration may impact treatment response and overall prognosis.
+* Further evaluation with advanced imaging modalities, such as MRI or PET scans, may be necessary to better understand the tumor's biology and inform treatment decisions.

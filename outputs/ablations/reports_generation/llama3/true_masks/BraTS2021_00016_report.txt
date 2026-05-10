@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the right frontal lobe with deep extension. The tumor measures approximately 74.5 mL in volume and has a heterogeneous enhancement pattern. The primary focus is unifocal, and there is minimal infiltration of surrounding brain tissue. The tumor exhibits high heterogeneity, with a high entropy contribution score (0.6863). The peritumoral FLAIR ratio is 1.1805, indicating significant edema. The edema-to-tumor-contrast ratio is 2.1994, suggesting a moderate degree of edema.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's guidelines for necrosis forcing a Grade 4 diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that it may be resectable, but further evaluation is needed to determine the optimal surgical approach.
+* Focality: The unifocal nature of the primary focus suggests that a focal resection may be possible.
+
+**Tumor Board Recommendations:**
+
+* Biopsy: A biopsy should be performed to confirm the diagnosis and obtain molecular information for treatment planning.
+* Chemotherapy: A combination of chemotherapy agents, including temozolomide, should be considered as part of the treatment plan.
+* Radiation Therapy: Whole-brain radiation therapy (WBRT) or stereotactic radiosurgery (SRS) may be necessary to manage any residual disease and prevent recurrence.
+
+**Triggered Clinical Guidelines:**
+
+* Necrosis forcing a Grade 4 diagnosis: The presence of necrosis in the tumor suggests that it is a high-grade glioma, which warrants a more aggressive treatment approach.
+* IDH-wildtype molecular subtype: This molecular information should be taken into account when selecting chemotherapy agents and designing the treatment plan.

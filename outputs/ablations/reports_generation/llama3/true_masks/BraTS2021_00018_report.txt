@@ -1,0 +1,29 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe of the left hemisphere, with significant midline crossing and ependymal involvement. The tumor measures approximately 160201 voxels in size, with a volume of 160.203 mL. The enhancement pattern is solid enhancing, with an intensity category of HIGH. The heterogeneity level is HETEROGENEOUS, indicating a mix of different tissue types within the tumor.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme. The IDH/EGFR status is not explicitly stated in the graph, but given the high heterogeneity level and midline crossing, it is likely that this tumor is an IDH-wildtype glioblastoma.
+
+The triggered clinical guidelines support this diagnosis, with the necrosis forcing a Grade 4 diagnosis and the texture entropy predicting an IDH-wildtype status. The graph also indicates that the tumor has extensive infiltration into surrounding brain tissue, which is consistent with the WHO CNS5 criteria for glioblastoma multiforme.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resection of the tumor is recommended to alleviate symptoms and improve quality of life.
+* Due to the midline crossing and ependymal involvement, a multidisciplinary approach involving neurosurgery, radiation oncology, and medical oncology may be necessary.
+
+**Radiation Therapy:**
+
+* Whole-brain radiation therapy (WBRT) or stereotactic radiosurgery (SRS) may be considered as part of the treatment plan to control tumor growth and alleviate symptoms.
+* The graph does not provide specific guidance on radiation dose or fractionation, but a multidisciplinary team can work together to develop an individualized treatment plan.
+
+**Medical Oncology:**
+
+* Chemotherapy may be recommended as part of the treatment plan to target the IDH-wildtype glioblastoma.
+* The graph does not provide specific guidance on chemotherapy regimens, but a multidisciplinary team can work together to develop an individualized treatment plan.
+
+Overall, the patient's tumor is considered high-risk due to its size, location, and heterogeneity. A multidisciplinary approach involving neurosurgery, radiation oncology, medical oncology, and other specialists may be necessary to develop an effective treatment plan.

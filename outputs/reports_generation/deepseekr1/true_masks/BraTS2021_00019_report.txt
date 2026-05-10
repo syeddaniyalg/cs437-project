@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, irregular-shaped mass measuring 108 mm in maximum diameter located in the right frontal lobe. The lesion exhibits solid contrast enhancement with significant peritumoral edema evidenced by a high edema-to-tumor core ratio (10.9363) and a marked peritumoral FLAIR signal abnormality (ratio 1.4036). The tumor volume is substantial at 143 mL, classified as VERY_LARGE per the VolumeCategory. Cortical involvement is confirmed, and ependymal contact is present. The lesion does not cross midlines or involve bilateral structures. Necrosis is minimal (proportion 0.0112), and no satellite lesions are detected.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype). This conclusion is driven by the presence of necrosis (proportion 0.0112), which, according to the triggered guideline WHO-GBM-NECROSIS, mandates a WHO Grade 4 designation within the IDH-wildtype molecular pathway. The lesion's large volume (143 mL), irregular shape, cortical involvement, and ependymal contact are consistent with the radiographic features of a Grade 4 astrocytoma.
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resection is strongly recommended due to the large tumor burden, cortical involvement, and potential for significant mass effect. Pre-operative functional MRI and potentially awake mapping should be performed given the frontal location, which may involve eloquent cortex.
+    *   The unifocal nature (focality: UNIFOCAL) supports a macroscopic resection strategy as the primary surgical goal.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG guidelines (RTOG-CTV-EPENDYMAL), a mandatory expansion of the Clinical Target Volume (CTV) is required to include the ipsilateral ventricular wall due to confirmed ependymal contact.
+    *   Per RTOG guidelines (RTOG-CTV-CORTICAL), the CTV margin must be truncated at the inner table of the skull for the involved right hemisphere cortical surface, avoiding extension into the bone/air interface.
+    *   Chemotherapy with temozolomide is indicated as part of standard adjuvant therapy following resection for IDH-wildtype glioma.
+    *   Stereotactic radiosurgery (SRS) is explicitly contraindicated as a primary treatment modality due to the lesion size exceeding 30 mm (RTOG-SRS-EXCLUSION). Standard fractionated radiotherapy is recommended.
+    *   Caution is advised regarding pseudo-response during radiation therapy, as per RANO guidelines for large enhancing lesions. Serial imaging should be interpreted carefully.

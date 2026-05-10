@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, highly irregular tumor located in the right frontal lobe with mild infiltration into surrounding brain tissue. The tumor exhibits solid enhancing features and has heterogeneous texture characteristics. The primary focus measures approximately 30.56 mL in volume, with a maximum diameter of 80.06 mm. The tumor shows significant edema and necrosis, with an enhancement pattern consistent with a high-grade glioma.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-negative. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's high heterogeneity index (0.6179) and irregular shape (HIGHLY_IRREGULAR) are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor is considered resectable, but caution should be exercised due to its proximity to eloquent cortex.
+* Focality: The tumor is unifocal, and surgical resection should prioritize the primary focus.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: CTV expansion for ependymal contact and cortical truncation are recommended to ensure adequate coverage of the tumor bed.
+* Chemotherapy: A standard regimen of temozolomide (TMZ) or other approved agents should be considered for this patient, given the diagnosis of glioblastoma.
+
+Note: The above report is a simulated example and not based on actual patient data.

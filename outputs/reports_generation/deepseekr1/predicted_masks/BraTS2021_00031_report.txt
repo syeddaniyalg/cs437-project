@@ -1,0 +1,16 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a highly irregular, multicentric mass located in the left frontal lobe, exhibiting solid enhancement. The lesion measures a maximum diameter of 144.25 mm and has a volume of 71.993 mL, classified as VERY_LARGE by volumetric analysis. Peritumoral edema is present but focal, with a peritumoral FLAIR ratio of 0. Cortical involvement is confirmed, and the tumor demonstrates direct contact with the ependymal lining of the ventricle at a proximity of 5 mm. Necrosis accounts for 28.34% of the enhancing volume, contributing to a heterogeneous appearance with a heterogeneity index of 0.6558. The tumor does not exhibit midline crossing or bilateral involvement.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis (WHO-GBM-NECROSIS), the tumor is assigned WHO Grade 4. The necrosis forces an IDH-wildtype molecular subtype according to WHO classification rules. While frontal predominance without midline/bilateral crossing raises a prior for IDH-mutant (IDH-MUTANT-PRIOR), the absolute trigger of necrosis in the WHO guidelines dictates the IDH-wildtype pathway.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The tumor is located in the dominant hemisphere (left frontal lobe), necessitating awake craniotomy with functional mapping to minimize risk to eloquent cortex (ELOQUENT-CORTEX-LEFT).
+*   **Radiation/Medical Oncology:**
+    *   Ipsilateral ependymal contact mandates expansion of the Clinical Target Volume (CTV) to include the adjacent ventricular wall (RTOG-CTV-EPENDYMAL).
+    *   Cortical involvement requires truncation of the CTV margin at the inner table of the skull (no bone/air margin) (RTOG-CTV-CORTICAL).
+    *   Given the lesion size (>30mm), Stereotactic Radiosurgery (SRS) as a primary modality is contraindicated (RTOG-SRS-EXCLUSION).
+    *   Per RANO guidelines, close monitoring for pseudo-response is required during radiation therapy due to the presence of necrosis and high heterogeneity (IMPLICIT RANO PSEUDO-RESPONSE RISK).

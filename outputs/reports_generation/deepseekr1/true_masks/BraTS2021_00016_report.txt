@@ -1,0 +1,15 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion measuring 74.5 mL in volume with an irregular shape (sphericity 0.5537). The lesion shows heterogeneous contrast enhancement and significant surrounding edema (edema-to-tumor-core ratio 2.1994, peritumoral FLAIR ratio 1.1805). Cortical involvement is confirmed, and ependymal contact is present. The lesion extends 5 mm from the ventricular surface and is classified as VERY_LARGE by volume category. No midline crossing or satellite lesions are identified.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype) based on the presence of necrosis (14.2% tumor volume), which, according to WHO-GBM-NECROSIS guideline, mandates Grade 4 designation in the IDH-wildtype molecular pathway. The lesion's characteristics support a primary glioma etiology, with CNS lymphoma and metastasis ruled out by VASARI-PRIMARY-GLIOMA.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The lesion is unifocal and located in the frontal lobe. Resectability is high, but the presence of cortical involvement necessitates consideration for awake mapping if functional integrity is critical. Eloquent cortex risk must be carefully assessed preoperatively.
+*   **Radiation/Medical Oncology:**
+    *   Ipsilateral ependymal contact requires CTV expansion to include the adjacent ventricular wall per RTOG-CTV-EPENDYMAL guideline.
+    *   Cortical involvement dictates truncation of the CTV margin at the inner table of the skull (no bone/air margin) per RTOG-CTV-CORTICAL guideline.
+    *   Lesion size (>30mm) contraindicates SRS as a primary modality per RTOG-SRS-EXCLUSION guideline. Conventional fractionated radiotherapy is indicated. RANO guidelines warn against misinterpreting pseudo-response due to significant edema (edema-to-tc ratio 2.1994).

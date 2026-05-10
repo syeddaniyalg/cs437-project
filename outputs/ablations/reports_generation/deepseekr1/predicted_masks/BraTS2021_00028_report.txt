@@ -1,0 +1,37 @@
+Okay, here is a structured summary of the provided tumor characterization data:
+
+**Tumor Summary**
+
+This report describes a complex brain tumor located primarily in the **left frontal lobe**. It is a **multicentric (multifocal)** tumor, meaning it has multiple distinct components or foci.
+
+## Basic Characteristics
+*   **Location:** Left hemisphere, predominantly frontal.
+*   **Size:** Moderate volume (falls into the 'MODERATE' volume bin).
+*   **Shape:** Highly irregular and complex (classified as 'HIGHLY_IRREGULAR' and 'HIGHLY_HETEROGENEOUS' shape and heterogeneity).
+
+## Appearance and Composition
+*   **Enhancement:** The overall enhancement level is categorized as 'ABSENT'. However, the tumor core itself shows a 'HETEROGENEOUS' enhancement pattern.
+*   **Composition:** Analysis suggests the presence of necrotic components (based on 'HETEROGENEOUS' enhancement pattern and derived metrics like 'ed_tc_volume_ratio').
+*   **Texture:** The tumor exhibits high heterogeneity, both in signal intensity ('HETEROGENEOUS' intensity category) and texture ('HIGHLY_HETEROGENEOUS' heterogeneity category). Specific texture analysis (GLCM) indicates complex patterns, particularly within necrotic and enhancing components.
+*   **Peritumoral Changes:** Moderate infiltration into surrounding brain tissue is indicated ('MODERATE_INFILTRATION').
+
+## Derived Metrics
+*   **Heterogeneity Index:** 0.7778 (highly heterogeneous).
+*   **Peritumoral FLAIR Ratio:** 1.6681 (suggests significant surrounding edema/fluid change).
+
+## Key Features
+1.  **Multifocal:** Clearly present.
+2.  **Left Hemisphere Dominant:** Primarily frontal.
+3.  **Moderate Size:** Moderate volume.
+4.  **Highly Complex Shape:** Irregular and heterogeneous appearance.
+5.  **No Overall Enhancement (Absent Enhancement Level):** However, internal heterogeneity is significant.
+6.  **Necrotic Component:** Suggested by heterogeneous enhancement and derived metrics.
+7.  **Moderate Infiltration:** Moderate spread into surrounding brain tissue.
+8.  **Significant Peritumoral Changes:** Moderate FLAIR ratio indicates surrounding edema.
+
+## Clinical Relevance (Interpretation Notes)
+*   This tumor presents with multiple concerning features: multifocality, irregular shape, high internal heterogeneity, and evidence of necrosis and infiltration.
+*   The absence of overall enhancement combined with internal heterogeneity and necrosis could suggest a higher-grade pathology, but a definitive grade requires correlation with histopathological examination if a biopsy is performed.
+*   The moderate infiltration and significant peritumoral changes indicate it is not a small, localized lesion and may impact treatment planning and prognosis.
+
+This characterization is based on advanced imaging analysis and provides quantitative insights into the tumor's complexity. A final diagnosis and clinical management plan require integration with clinical findings and, ideally, histopathological confirmation.

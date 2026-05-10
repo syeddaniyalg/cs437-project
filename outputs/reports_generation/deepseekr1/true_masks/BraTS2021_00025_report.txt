@@ -1,0 +1,19 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion measuring 30.557 mL (max diameter 80.06 mm) with highly irregular borders and solid enhancing characteristics. The lesion exhibits significant peritumoral edema (edema-to-tumor core ratio 4.6109) and extends into the cortex. Ependymal contact is confirmed, with a proximity of 5 mm to the ventricular system. There is no midline crossing or bilateral involvement noted. A small component of necrosis (0.97% volume) is present. The lesion shows moderate heterogeneity (heterogeneity index 0.6179) and maintains a unifocal pattern.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis, WHO Grade 4 astrocytoma (IDH-wildtype) is assigned, consistent with guideline WHO-GBM-NECROSIS. The molecular subtype is predicted as IDH-wildtype per the WHO classification pathway triggered by necrosis. The VASARI classification confirms a solid enhancing, large volume lesion with irregular geometry.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:**
+    *   Resectability is assessed as potentially significant given the unifocal nature and right hemisphere location (non-dominant). Functional MRI and/or awake mapping are strongly recommended due to cortical involvement to avoid eloquent cortex resection.
+    *   Bilateral tumor burden (is_bilateral: True) must be considered for surgical planning, potentially requiring staged or bilateral approaches.
+    *   Histopathology and IDH mutation/methylguanine methyltransferase (MGMT) promoter methylation testing are mandatory post-resection to confirm molecular classification.
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Radiation Oncology Recommendations:** Treatment planning requires specific modifications. The Clinical Target Volume (CTV) must be expanded to include the ipsilateral ventricular wall due to confirmed ependymal contact (RTOG-CTV-EPENDYMAL). Furthermore, cortical involvement necessitates truncating the CTV margin precisely at the inner table of the skull (RTOG-CTV-CORTICAL), avoiding any extension into the bone/air interface.
+    *   **Contraindication:** Stereotactic RadioSurgery (SRS) as a primary modality is explicitly contraindicated due to the lesion size exceeding 30 mm (RTOG-SRS-EXCLUSION). Standard fractionated radiotherapy is indicated.
+    *   **RANO Warnings:** While no specific RANO pseudo-response warnings are triggered by this profile, standard RANO criteria for assessing treatment response in high-grade gliomas should be strictly followed, particularly monitoring for early radiation necrosis given the solid enhancing pattern and necrotic component.

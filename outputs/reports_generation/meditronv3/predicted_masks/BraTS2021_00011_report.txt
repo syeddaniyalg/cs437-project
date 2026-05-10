@@ -1,0 +1,37 @@
+Here is the Knowledge Graph context for the patient. Please generate the clinical report.
+
+PATIENT ID: UNKNOWN
+
+=== RAW EXTRACTED METRICS ===
+- sphericity: 0.533
+- ependymal_contact: True
+- proportion_necrosis: 0.3309
+- ventricular_proximity_mm: 5
+- peritumoral_flair_ratio: 0
+- edema_to_tc_ratio: 0.0
+- focality: MULTICENTRIC
+- T1ce_ET_glcm_entropy: 5.8366
+- extraction_timestamp: 2025-05-08T12:00:00Z
+- midline_crossing: NONE
+- cortical_involvement: True
+- is_bilateral: False
+- vol_wt_mL: 91.609
+- heterogeneity_index: 0.6397
+- has_satellites: True
+- vol_ncr_mL: 30.315
+- max_3d_diameter_mm: 108.45
+
+=== CATEGORICAL RADIOMIC PROFILE ===
+- AnatomicLocation: {'lobe': 'Frontal'}
+- ShapeCategory: {'type': 'IRREGULAR'}
+- EnhancementPattern: {'type': 'SOLID_ENHANCING'}
+- None: {}
+- VolumeCategory: {'bin': 'VERY_LARGE'}
+- Hemisphere: {'side': 'LEFT'}
+
+=== TRIGGERED CLINICAL GUIDELINES (WHO/VASARI/RTOG/RANO) ===
+- [SUPPORTS DIAGNOSIS] -> WHO_Standard: {'grade': 4, 'description': 'Presence of necrosis mandates Grade 4 designation in IDH-wildtype pathway.', 'id': 'WHO-GBM-NECROSIS', 'molecular_subtype': 'IDH-wildtype'}
+- [REQUIRES CLINICAL ACTION] -> RTOG_Guideline: {'domain': 'Radiation Oncology', 'recommendation': 'CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact.', 'id': 'RTOG-CTV-EPENDYMAL'}
+- [RAISES PRIOR] -> MolecularPrior: {'mutation': 'IDH-mutant', 'id': 'IDH-MUTANT-PRIOR', 'logic': 'Frontal predominance without bilateral/midline crossing raises IDH-mutant probability.'}
+- [CONTRAINDICATES] -> RTOG_Guideline: {'domain': 'Radiation Oncology', 'recommendation': 'SRS as primary modality is contraindicated for lesions > 30mm.', 'id': 'RTOG-SRS-EXCLUSION'}
+- [TRIGGERS SURGICAL WARNING] -> SurgicalRisk: {'implication': 'Tumor in dominant hemisphere. Awake craniotomy mapping indicated to preserve speech.', 'id': 'ELOQUENT-CORTEX-LEFT'}

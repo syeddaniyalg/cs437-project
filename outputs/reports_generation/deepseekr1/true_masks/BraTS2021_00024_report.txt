@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion with a very large volume (101.45 mL) and irregular shape (sphericity 0.6868). The lesion exhibits solid contrast enhancement and significant peritumoral edema (peritumoral FLAIR ratio 1.8567, edema-to-tumor ratio 16.1225). Cortical involvement is confirmed, with no evidence of bilateral spread or satellite lesions. Ependymal contact is present, and the tumor extends 5 mm from the ventricular surface. Midline structures are unaffected (WT_ONLY crossing).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is an **Infiltrating Pontine Glioma (IPSS) Grade 4** with **IDH-wildtype** molecular subtype. This conclusion is supported by the **[SUPPORTS DIAGNOSIS]** guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS), which mandates WHO Grade 4 designation in the IDH-wildtype pathway due to the presence of necrosis (proportion_necrosis: 0.0024). The molecular subtype is IDH-wildtype, consistent with the WHO CNS5 classification for Grade 4 gliomas.
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   Resectability is highly recommended given the unifocal nature and cortical involvement. Preoperative functional MRI and intraoperative awake mapping are strongly advised due to the location in the dominant hemisphere (Hemisphere: {'side': 'RIGHT'}).
+    *   Gross total resection is the goal, contingent upon eloquent cortex mapping and patient tolerance.
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Guideline RTOG-CTV-EPENDYMAL (ID: RTOG-CTV-EPENDYMAL) requires CTV expansion to include the ipsilateral ventricular wall due to confirmed ependymal contact.**
+    *   **RTOG Guideline RTOG-CTV-CORTICAL (ID: RTOG-CTV-CORTICAL) mandates truncation of the CTV margin at the inner table of the skull due to cortical involvement (cortical_involvement: True), prohibiting any extension into bone/air.**
+    *   **RANO Guideline RANO-SRS-EXCLUSION (ID: RTOG-SRS-EXCLUSION) contraindicates Stereotactic RadioSurgery (SRS) as a primary modality due to the lesion diameter exceeding 30mm (max_3d_diameter_mm: 104.47).**
+    *   Adjuvant whole-brain radiotherapy is indicated following surgical resection, with planning target volumes defined according to the above RTOG contouring modifications. Radiation dose should follow standard protocols for GBM (e.g., 54 Gy in 30 fractions).

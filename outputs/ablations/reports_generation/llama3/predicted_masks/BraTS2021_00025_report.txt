@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a deep-seated tumor with multiple foci in the right hemisphere, primarily involving the frontal and temporal lobes. The tumor exhibits an irregular shape with a volume of approximately 90 mL, showing solid enhancing features on T1-weighted imaging. The peritumoral FLAIR signal is mildly elevated, indicating moderate infiltration. The centroid of the tumor is located at (x, y, z) = (-125.29, 112.1, 70.58) in MNI space.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical features, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's indication of necrosis forcing a Grade 4 diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that surgical resection may be feasible, but further evaluation is needed to determine the optimal approach.
+* Focality: Given the multilocular nature of the tumor, a focal resection strategy may not be suitable. A more comprehensive surgical plan should be developed.
+
+**Radiation/Medical Oncology:**
+
+* Radiation therapy: The graph's indication of moderate infiltration suggests that radiation therapy may be necessary to control tumor growth.
+* Chemotherapy: IDH-wildtype glioblastoma typically responds well to chemotherapy. A treatment regimen incorporating temozolomide and other agents should be considered.
+
+Note: Further evaluation and consultation with a multidisciplinary team are recommended to develop a comprehensive treatment plan for this patient.

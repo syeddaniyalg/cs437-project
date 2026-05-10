@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates an irregularly shaped, heterogeneous-enhancing tumor located in the left frontal lobe, measuring approximately 86.31 mm in maximum diameter. The lesion exhibits a high degree of heterogeneity, with a proportion of necrosis estimated at 38.7%. The tumor is characterized by ependymal contact and proximity to the ventricular system, necessitating CTV expansion to include the ipsilateral ventricular wall. Cortical involvement is also detected, warranting cortical truncation at the inner table of the skull.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma with an IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS). The frontal predominance without bilateral or midline crossing raises the probability of an IDH-mutant glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability assessment: The tumor's size and location suggest a complex resection, potentially requiring awake craniotomy mapping to preserve speech.
+* Focality: The lesion is unifocal, allowing for a targeted surgical approach.
+
+**Radiation/Medical Oncology:**
+
+* CTV expansion: Include the ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+* Cortical involvement: Truncate CTV margin at the inner table of the skull, without extending into bone or air (RTOG-CTV-CORTICAL).
+* SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).

@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, measuring approximately 93.64 mm in maximum diameter. The lesion exhibits heterogeneous enhancement and is characterized by significant necrosis, accounting for 42.33% of its volume. The tumor displays ependymal contact and proximity to the ventricular system, with a distance of 5 mm from the ventricular wall. Additionally, cortical involvement is evident, with satellites present along the periphery.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma (IDH-wildtype) in accordance with WHO CNS5 criteria. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in IDH-wildtype pathway.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The tumor's size and location suggest that resection may be feasible, but careful planning is necessary to avoid eloquent cortex risks.
+* Focality: The lesion is multicentric, which may impact the feasibility of gross total resection.
+
+**Radiation/Medical Oncology:**
+
+* **RTOG Radiation Contouring Modifications:**
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* **RANO Warnings:**
+	+ Pseudo-response risk due to significant necrosis and heterogeneous enhancement.
+* **SRS Contraindication:** SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).
+
+**Additional Considerations:**
+The tumor's location in the dominant hemisphere triggers a warning for eloquent cortex risks, indicating the need for awake craniotomy mapping to preserve speech.

@@ -1,0 +1,31 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe with deep extension and involvement of the occipital and temporal lobes. The tumor measures approximately 102.49 mm in its longest diameter and has a volume of 190.594 mL. The enhancement pattern is solid, and the intensity is high. The tumor exhibits extensive infiltration into surrounding brain tissue, with a heterogeneity index of 0.6563 indicating highly heterogeneous texture features.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme (GBM). The graph's guidelines support this conclusion, citing the tumor's large size, irregular shape, and extensive infiltration into surrounding brain tissue. Additionally, the high enhancement intensity and solid enhancement pattern are consistent with GBM.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor is considered resectable, but its location and extent may require a complex surgical approach.
+* Focality: The tumor is unifocal, which favors a single surgical procedure.
+* Midline crossing: The tumor does not cross the midline, which simplifies surgical planning.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain should be included in the radiation treatment plan to account for the tumor's extensive infiltration.
+* Dose and fractionation: A standard dose of 60 Gy in 30 fractions is recommended.
+
+**Chemotherapy:**
+
+* Agent selection: Temozolomide (TMZ) is a suitable choice for this patient, given the diagnosis of GBM.
+* Dosing and schedule: TMZ should be administered at a dose of 200 mg/m² daily for 5 days every 28 days.
+
+**Follow-up:**
+
+* Imaging studies: MRI with contrast should be performed every 2-3 months to monitor tumor response and detect any potential recurrences.
+* Clinical evaluations: The patient should undergo regular clinical evaluations, including neurological exams and laboratory tests, to assess treatment efficacy and detect any adverse effects.

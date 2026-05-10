@@ -1,0 +1,30 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe of the left hemisphere, with significant infiltration into the surrounding brain tissue. The tumor measures approximately 212 mL in volume and exhibits a solid enhancing pattern on T1-weighted images. The FLAIR sequence shows moderate edema, while the ADC map indicates moderate infiltration. The tumor's centroid is located at MNI coordinates (-83.42, 93.26, 88.96), with a maximum diameter of 114.21 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with a molecular subtype consistent with the "Proneural" category. This conclusion is supported by the graph's indication of necrosis forcing a Grade 4 diagnosis and the presence of high entropy in the tumor's texture features.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size, location, and infiltration pattern suggest that surgical resection may be feasible, but further evaluation is needed to determine the optimal approach.
+* Focality: The tumor's unifocal nature suggests that a single surgical procedure may be sufficient.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain should be included in the radiation treatment plan due to the tumor's significant infiltration into surrounding brain tissue.
+* Dose and fractionation: A standard glioblastoma protocol of 60 Gy in 30 fractions over 6 weeks is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) should be considered as part of the treatment regimen, given the tumor's IDH-wildtype status.
+* Bevacizumab may also be considered for its potential to improve outcomes in patients with glioblastoma.
+
+**Follow-up and Monitoring:**
+
+* Regular MRI scans should be performed every 2-3 months to monitor the tumor's response to treatment and detect any recurrences or new lesions.
+* Clinical follow-up should include regular neurological examinations, laboratory tests, and imaging studies as needed.

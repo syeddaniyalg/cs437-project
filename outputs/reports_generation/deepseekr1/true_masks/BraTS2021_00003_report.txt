@@ -1,0 +1,18 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, left frontal lesion measuring 99.2 mL in volume with an irregular shape and heterogeneous enhancement. The tumor exhibits significant peritumoral edema evidenced by a FLAIR ratio of 2.8986 and an edema-to-tumor core ratio of 1.3933. Cortical involvement is confirmed, with no midline crossing or bilateral involvement noted. Ependymal contact is present, and the lesion extends 5 mm from the ventricular surface. Necrosis accounts for 17% of the tumor volume, contributing to a heterogeneous texture entropy (T1ce ET glcm entropy: 8.442). The sphericality index of 0.6909 indicates moderate deviation from sphericity.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype) based on the presence of necrosis, as mandated by WHO classification guidelines (WHO-GBM-NECROSIS). The edema-dominant phenotype raises a high pseudo-response risk per RANO criteria (RANO-PSEUDORESPONSE). While a prior raises the possibility of IDH-mutant glioma (IDH-MUTANT-PRIOR), the presence of necrosis rules out this pathway. The lesion characteristics align with a primary glioma (VASARI-PRIMARY-GLIOMA), with CNS lymphoma and metastatic disease ruled out.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:**
+    *   Resectability is assessed as potentially significant, given the unifocal nature and frontal location.
+    *   Given cortical involvement in the dominant hemisphere, awake craniotomy with functional mapping is strongly recommended (ELOQUENT-CORTEX-LEFT).
+
+*   **Radiation/Medical Oncology:**
+    *   **Contouring Modifications (RTOG):** Due to cortical involvement, truncate the Clinical Target Volume (CTV) margin at the inner table of the skull (RTOG-CTV-CORTICAL). Additionally, expand the CTV to include the ipsilateral ventricular wall due to ependymal contact (RTOG-CTV-EPENDYMAL).
+    *   **Treatment Considerations:** Stereotactic radiosurgery (SRS) is contraindicated as the lesion volume exceeds 30 mL (RTOG-SRS-EXCLUSION).
+    *   **Monitoring:** Establish a baseline assessment before initiating anti-vascular endothelial growth factor (anti-VEGF) therapy due to the edema-dominant phenotype creating a high risk of pseudo-response (RANO-PSEUDORESPONSE).

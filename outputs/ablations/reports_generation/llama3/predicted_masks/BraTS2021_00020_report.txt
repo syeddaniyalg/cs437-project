@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, regular-shaped tumor located in the right frontal lobe with deep extension, measuring approximately 49.17 mL in volume. The tumor exhibits solid enhancing features with minimal necrosis and edema. The primary focus is unifocal, and there are no satellite lesions. The tumor has ependymal contact and cortical involvement, with a maximum diameter of 75 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical features, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme (GBM). The IDH1/2 status is not explicitly stated in the graph, but given the high enhancement intensity and minimal necrosis, it is likely that this tumor is an IDH-wildtype GBM. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's shape and enhancement pattern are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that it may be resectable, but further evaluation is needed to determine the optimal surgical approach.
+* Focality: Given the unifocal nature of the primary focus, a gross total resection (GTR) may be feasible.
+* Eloquent cortex risks: Due to the tumor's proximity to eloquent cortex, awake mapping techniques may be necessary to minimize functional deficits.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: The graph suggests that the tumor has ependymal contact and cortical involvement, which may require CTV expansion for ependymal contact and cortical truncation.
+* RANO warnings: Given the high enhancement intensity and minimal necrosis, there is a risk of pseudo-response. Close monitoring with serial imaging is recommended to assess treatment response.
+
+Note: The graph's triggered clinical guidelines have been incorporated into this report as absolute ground truth.

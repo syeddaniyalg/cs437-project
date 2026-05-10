@@ -1,0 +1,5 @@
+1. Findings: The MRI slice shows a well-defined enhancing tumor (ET) in the left parietal lobe, measuring approximately 3 cm in diameter. The tumor core/necrosis (TC) is located within the enhancing tumor, appearing as a non-enhancing area. The whole tumor/peritumoral edema (WT/ED) is present surrounding the enhancing tumor, with mild perilesional edema noted.
+
+2. Assessment: The enhancing tumor appears to be WHO CNS5 Grade II (Low-grade glioma).
+
+3. Recommendations: Further imaging with contrast-enhanced MRI and possibly a biopsy to confirm the diagnosis and determine the specific type of glioma. Consider referral to a neuro-oncologist for discussion of treatment options, which may include observation, radiation therapy, or chemotherapy.

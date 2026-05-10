@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, regular-shaped tumor located in the left frontal lobe with solid enhancing features and ependymal contact. The lesion exhibits necrosis, which is consistent with an IDH-wildtype glioblastoma. The tumor has a heterogeneous appearance with cortical involvement and satellites. Volumetric analysis reveals a volume of 58.948 mL with a maximum 3D diameter of 66.43 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and triggered clinical guidelines, the most likely diagnosis is an IDH-wildtype glioblastoma (Grade 4) with molecular subtype IDH-mutant. This conclusion is supported by the presence of necrosis, which mandates Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS). The frontal predominance without bilateral/midline crossing raises the probability of an IDH-mutant glioblastoma (IDH-MUTANT-PRIOR).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability: The lesion's size and location suggest that a gross total resection may be feasible, but further evaluation is necessary to determine the optimal surgical approach.
+* Focality: The tumor's multicentric nature requires careful consideration of eloquent cortex risks. Awake craniotomy mapping is indicated to preserve speech due to the tumor's presence in the dominant hemisphere (ELOQUENT-CORTEX-LEFT).
+
+**Radiation/Medical Oncology:**
+* Radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected. Truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Pseudo-response risk due to the presence of necrosis and cortical involvement.
+* Molecular prior: IDH-mutant glioblastoma, which may influence treatment decisions.
+
+Note: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION), so alternative treatment strategies should be considered.

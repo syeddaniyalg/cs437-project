@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe with significant enhancement and necrosis. The tumor measures approximately 112949 voxels in size, with a volume of 112.949 mL. The primary focus is unifocal, and there is no evidence of midline crossing or ependymal involvement. Cortical involvement is present, with an overlap fraction of 0.6604.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's volume, shape, and enhancement pattern are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that it may be resectable, but further evaluation is needed to determine the optimal surgical approach.
+* Focality: The unifocal nature of the primary focus suggests that a focal resection may be possible.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: Given the tumor's location and size, CTV expansion for ependymal contact and cortical involvement is recommended.
+* Chemotherapy: IDH-wildtype glioblastoma typically responds well to temozolomide-based chemotherapy.

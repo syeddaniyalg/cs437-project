@@ -1,0 +1,5 @@
+1. Findings: The MRI slice shows a heterogeneous mass in the left parietal lobe. The enhancing tumor (ET) is predominantly located in the periphery, with a central area of tumor core/necrosis (TC) and peritumoral edema (WT/ED) surrounding it. The enhancing tumor measures approximately 3.5 cm in diameter. The central area of necrosis appears to be larger than the enhancing portion.
+
+2. Assessment: The findings are consistent with a WHO CNS5 Grade III tumor, likely a glioblastoma multiforme (GBM).
+
+3. Recommendations: Immediate referral to a neuro-oncologist for further evaluation, including biopsy, and discussion of treatment options such as surgery, radiation therapy, and chemotherapy.

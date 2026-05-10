@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multifocal, irregular enhancing lesion located in the right frontal lobe, measuring 57.3 mL in volume (classified as LARGE). The tumor exhibits significant necrosis (20.48% proportion) and peritumoral edema (edema-to-tumor core ratio 0.2887, FLAIR ratio 1.4628). Cortical involvement is confirmed, with no midline crossing or bilateral extension beyond the specified hemisphere (RIGHT). Ependymal contact is present, and the lesion extends 5mm from the ventricular surface. The shape is characterized by moderate sphericity (0.6732) and high heterogeneity (heterogeneity index 0.6244). Lesion satellites are present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Per the WHO CNS5 classification, the presence of necrosis (WHO-GBM-NECROSIS guideline) mandates a WHO Grade 4 designation within the IDH-wildtype molecular pathway. The molecular subtype is predicted to be IDH-wildtype based on the WHO-GBM-NECROSIS guideline trigger. RANO guidelines flag a potential pseudo-response risk due to the combination of necrosis and significant peritumoral edema.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:**
+    *   Resectability is strongly recommended given the large volume (57.3 mL), cortical involvement, and presence of necrosis. Preoperative functional MRI and potentially awake mapping are required due to frontal lobe location and cortical involvement (WHO-GBM-NECROSIS, RTOG-CTV-CORTICAL).
+    *   Bilateral involvement necessitates consideration of contralateral resection or extended surgical planning (RTOG-SRS-EXCLUSION).
+    *   Histopathology for IDH mutation status and 1p/19q co-deletion analysis is mandatory.
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Contouring Modifications:** CTV expansion is required to include the ipsilateral ventricular wall due to confirmed ependymal contact (RTOG-CTV-EPENDYMAL). Cortical involvement necessitates truncation of the CTV margin at the inner table of the skull (RTOG-CTV-CORTICAL).
+    *   **Contraindication:** Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion volume exceeding 30 mL (RTOG-SRS-EXCLUSION).
+    *   **Chemotherapy:** Standard adjuvant temozolomide-based chemoradiation therapy is recommended for IDH-wildtype glioblastoma multiforme (GBM). Consider Bevacizumab if anti-angiogenic pseudo-progression is suspected (RANO guidelines).
+    *   **Response Assessment:** RANO guidelines caution against misinterpreting contrast enhancement patterns, particularly given the high necrosis component, and pseudo-response is a potential risk. Serial imaging should incorporate RANO criteria for accurate assessment.

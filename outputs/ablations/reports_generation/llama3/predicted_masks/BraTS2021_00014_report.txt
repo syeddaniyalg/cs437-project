@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, highly irregular tumor located in the right frontal lobe with deep extension. The tumor measures approximately 135 mm in its longest diameter and has a volume of 20.097 mL. The enhancement pattern is ring-like, indicating a possible necrotic core. The tumor exhibits mild infiltration into surrounding brain tissue.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's high heterogeneity index, irregular shape, and ring-like enhancement pattern are consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that a gross total resection may be feasible.
+* Focality: The multilocular nature of the tumor requires careful planning to ensure complete removal of all tumor foci.
+* Eloquent cortex risks: Due to the tumor's proximity to eloquent cortex, awake mapping techniques should be considered during surgery.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal involvement
+	+ Careful planning to avoid radiation-induced necrosis in the surrounding brain tissue
+* Chemotherapy: The IDH-wildtype molecular subtype suggests that temozolomide-based chemotherapy may be effective.

@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a left-sided, regular-shaped, solid-enhancing tumor with moderate volume (16.636 mL) and heterogeneous texture. The lesion exhibits ependymal contact and proximity to the ventricular system, measuring approximately 5 mm from the ventricular wall. Cortical involvement is noted, with no midline crossing or bilateral extension. The sphericity index of 0.7364 suggests a relatively spherical shape. The presence of necrosis (proportion_necrosis: 0.0361) supports a diagnosis of glioblastoma.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is Glioblastoma WHO Grade IV, IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's size and location suggest resectability, but careful consideration of eloquent cortex risks is necessary.
+* Focality: Unifocal tumor with no midline crossing or bilateral extension.
+* Eloquent cortex risk: Awake craniotomy mapping indicated to preserve speech due to dominant hemisphere involvement (ELOQUENT-CORTEX-LEFT).
+
+**Radiation/Medical Oncology:**
+* CTV expansion: Include ipsilateral ventricular wall in the CTV contouring due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+* Cortical involvement: Truncate CTV margin at the inner table of the skull (no margin into bone/air) to avoid cortical damage (RTOG-CTV-CORTICAL).
+* SRS contraindication: Lesion size (> 30mm) contraindicates SRS as primary modality (RTOG-SRS-EXCLUSION).

@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a right-sided, irregularly shaped glioblastoma with heterogeneous enhancement pattern and moderate volume category. The tumor exhibits cortical involvement, ependymal contact, and necrosis, which is consistent with WHO Grade 4 designation in the IDH-wildtype pathway. The lesion's location in the frontal lobe, without midline crossing or bilateral involvement, raises the probability of an IDH-mutant molecular subtype.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade 4 glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's multifocal nature and cortical involvement may require a more extensive resection to achieve gross total resection.
+* Focality: Due to the multifocal pattern, eloquent cortex risks should be carefully evaluated during awake mapping if the dominant hemisphere is involved.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Pseudo-response risk due to heterogeneous enhancement pattern and necrosis.
+* Molecular Prior: The lesion's frontal predominance without bilateral/midline crossing raises IDH-mutant probability, which may influence treatment decisions.
+
+**Note:** SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).

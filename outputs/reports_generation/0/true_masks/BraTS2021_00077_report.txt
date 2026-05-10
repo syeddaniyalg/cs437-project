@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, with heterogeneous enhancement and significant peritumoral edema. The lesion exhibits ependymal contact and proximity to the ventricular system, which is reflected in the triggered clinical guidelines. The tumor's volume is very large, measuring 197.218 mL, with a maximum 3D diameter of 102.77 mm. Cortical involvement is evident, and the lesion has satellites.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and categorical features, the most likely diagnosis is a Grade 4 glioblastoma (GBM) in the IDH-wildtype pathway, as supported by the WHO Standard guideline. The presence of necrosis mandates this grade designation.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability: The lesion's size and location suggest that a subtotal resection may be feasible.
+* Focality: The tumor is unifocal, which favors surgical resection.
+* Eloquent cortex risks: Due to the dominant hemisphere involvement, awake craniotomy mapping is indicated to preserve speech.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Edema-dominant phenotype creates high pseudo-response risk. Establish baseline before anti-VEGF therapy (RANO-PSEUDORESPONSE).

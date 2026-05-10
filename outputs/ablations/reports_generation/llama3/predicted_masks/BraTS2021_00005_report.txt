@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with deep extension, measuring approximately 131.773 mL in volume. The tumor exhibits solid enhancing features on T1ce-weighted images and has minimal infiltration into surrounding brain tissue. The primary focus is situated in the left hemisphere, with satellites present in the right hemisphere. The tumor's centroid is located at (-143.1, 93.62, 103.46) in MNI space.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical features, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's recommendation to "SUPPORT_DIAGNOSIS" based on the tumor's size, shape, and enhancement pattern.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability assessment: The tumor's location and size suggest that a gross total resection may be feasible.
+* Focality evaluation: The presence of satellites in the right hemisphere indicates multifocal disease, which may impact surgical planning.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: Given the tumor's proximity to eloquent cortex, CTV expansion for ependymal contact and cortical truncation are recommended.
+* RANO warnings: The graph suggests a "REQUIRES_CLINICAL_ACTION" warning due to the presence of minimal infiltration into surrounding brain tissue. This may warrant closer monitoring or early initiation of adjuvant therapy.
+
+Note: The report is strictly grounded in the provided Knowledge Graph context, and any clinical recommendations are based on the triggered guidelines.

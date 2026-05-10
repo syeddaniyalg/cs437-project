@@ -1,0 +1,35 @@
+Okay, here is a structured report summarizing the key characteristics of the tumor based on the provided dataset:
+
+**Tumor Characterization Report**
+
+**1. Morphology & Location:**
+
+*   **Volume:** VERY_LARGE (Based on `volume_bin`)
+*   **Shape:** IRREGULAR (Based on `shape_bin`)
+*   **Primary Lobe:** Frontal (Based on `primary_lobe`)
+*   **Hemisphere:** RIGHT (Based on `hemisphere`)
+*   **Focality:** UNIFOCAL (Based on `focality`)
+*   **Midline Crossing:** NONE (Based on `midline_crossing`)
+*   **Ependymal Involvement:** YES (Based on `ependymal_involvement`)
+*   **Cortical Involvement:** YES (Based on `cortical_involvement`)
+
+**2. Enhancement:**
+
+*   **Pattern:** HETEROGENEOUS (Based on `enhancement_pattern`)
+*   **Intensity:** HIGH (Based on `enhancement_intensity_category`)
+*   **Overall Enhancement Level:** HIGH (Based on `enhancement_level`)
+
+**3. Texture & Heterogeneity:**
+
+*   **Heterogeneity Level:** HIGHLY_HETEROGENEOUS (Based on `heterogeneity_level`)
+*   **Heterogeneity Index:** 0.678 (Based on `heterogeneity_index`)
+*   **Infiltration Level:** MODERATE_INFILTRATION (Based on `infiltration_level`)
+*   **Component Scores:** High contributions from standard deviation (1.0) and entropy (0.8751), moderate from shape (0.3042).
+
+**4. Clinical Implications:**
+
+*   This tumor is characterized by being **very large** and **irregularly shaped**, located primarily in the **right frontal lobe**.
+*   It is **unifocal** and involves the **ependyma** and **cortex**.
+*   The tumor demonstrates **high-level heterogeneous enhancement** on imaging, indicating significant variation in its enhancing tissue.
+*   The tumor is assessed as **highly heterogeneous** internally, with moderate infiltration characteristics.
+*   These features suggest a complex lesion that likely requires further evaluation (e.g., biopsy) to determine its exact histological type and grade, and careful surgical planning due to its location and size.

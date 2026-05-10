@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, measuring approximately 153mm in maximum diameter. The lesion exhibits solid enhancing features with minimal edema and no significant peritumoral edema or vasogenic edema. The tumor has a high degree of heterogeneity, with a heterogeneous index of 0.5125, indicating a complex mixture of cell types. Notably, the lesion shows ependymal contact and proximity to the ventricular system, which warrants CTV expansion to include the ipsilateral ventricular wall.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma with an IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability: The lesion's size and location suggest that surgical resection may be feasible, but careful planning is necessary to avoid eloquent cortex risks.
+* Focality: The tumor is multicentric, which may impact the feasibility of gross total resection.
+
+**Radiation/Medical Oncology:**
+
+* **RTOG Radiation Contouring Modifications:**
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* **RANO Warnings:**
+	+ Pseudo-response risk due to high heterogeneity index and presence of necrosis.
+* **SRS Contraindication:** SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).
+
+**Additional Considerations:**
+The tumor's location in the dominant hemisphere triggers a warning for eloquent cortex risks, and awake craniotomy mapping is indicated to preserve speech.

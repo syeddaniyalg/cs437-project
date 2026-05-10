@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion measuring 163.81 mL (max 3D diameter 110.12 mm) with an irregular shape (sphericity 0.6506). The lesion exhibits solid enhancing characteristics with significant peritumoral edema (FLAIR ratio 1.6872, edema-to-tumor core ratio 41.88). Cortical involvement is confirmed, and ependymal contact is present. The tumor demonstrates moderate heterogeneity (heterogeneity index 0.6384) without necrosis (proportion_necrosis 0.0). Midline crossing is limited to white matter only (WT_ONLY), and the lesion is not bilateral.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, WHO Grade 4. This conclusion is supported by the lesion's very large volume (>100 mL), significant cortical involvement, and ependymal contact, which are features strongly associated with Grade 4 gliomas according to the VASARI classification and WHO CNS5 criteria. Although necrosis is a typical feature often forcing Grade 4 classification, its absence here does not preclude this grade due to the other compelling features. Molecular subtyping (IDH/EGFR status) was not assessed in this report.
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered clinical guidelines:
+
+*   **Surgical Oncology:**
+    *   Resection is strongly contraindicated due to the lesion's very large size (>30mm max diameter) and significant edema, which increases surgical morbidity risk. Awake mapping would be considered if functional preservation is a priority, given the cortical involvement in the right hemisphere (dominant for language and motor functions).
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Radiation Oncology Guideline Violations/Modifications:**
+        *   **[REQUIRES CLINICAL ACTION]** CTV expansion is mandatory to include the ipsilateral ventricular wall due to confirmed ependymal contact (RTOG-CTV-EPENDYMAL).
+        *   **[REQUIRES CLINICAL ACTION]** Radiation field design must truncate the CTV margin at the inner table of the skull due to cortical involvement (RTOG-CTV-CORTICAL).
+        *   **[CONTRAINDICATES]** Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion's maximum diameter exceeding 30mm (RTOG-SRS-EXCLUSION).
+    *   **RANO Warnings:**
+        *   The high edema-to-tumor core ratio (41.88) warrants caution for pseudo-response assessment during radiation therapy monitoring.

@@ -1,0 +1,25 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, highly irregular mass located in the left frontal lobe, with a maximum diameter of 132.92 mm. The lesion exhibits heterogeneous contrast enhancement and significant necrosis (40.62% of viable tumor volume). Cortical involvement is confirmed, with no midline crossing or bilateral involvement noted. The tumor displays substantial heterogeneity (heterogeneity index 0.5916) and measures 72.96 mL in volume. Ependymal contact is present, and the lesion is in proximity to the ventricle (5 mm). Peritumoral edema is absent (peritumoral FLAIR ratio 0), though edema-to-tumor core ratio is 0.0.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis, the WHO grade is determined to be **Grade 4**. The molecular subtype is **IDH-wildtype**, as mandated by the presence of necrosis according to guideline WHO-GBM-NECROSIS. Although a prior raises the probability of IDH-mutant status (IDH-MUTANT-PRIOR), the necrosis forces a Grade 4 diagnosis and IDH-wildtype assignment.
+
+### 3. Clinical Management & Prescriptions
+The following recommendations are derived from the integrated analysis of radiomic features and triggered clinical guidelines:
+
+*   **Surgical Oncology:**
+    *   Resectability is assessed as potentially significant, given the large volume (72.96 mL) and multicentric nature.
+    *   Surgical planning must include awake craniotomy mapping due to cortical involvement and tumor location in the dominant hemisphere (TRIGGERS SURGICAL WARNING: ELOQUENT-CORTEX-LEFT). Mapping is indicated to preserve eloquent cortex.
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Contouring Modifications:**
+        *   CTV expansion is required to include the ipsilateral ventricular wall due to confirmed ependymal contact (REQUIRES CLINICAL ACTION: RTOG-CTV-EPENDYMAL).
+        *   Cortical involvement necessitates truncation of the CTV margin at the inner table of the skull (no bone/air margin) (REQUIRES CLINICAL ACTION: RTOG-CTV-CORTICAL).
+    *   **RANO Warnings:** The pseudo-response warning is not explicitly triggered by the current data set.
+    *   **Contraindication:** Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion size exceeding 30 mm (CONTRAINDICATES: RTOG-SRS-EXCLUSION).
+
+### 4. Molecular Prior
+A prior suggesting IDH-mutant status is raised based on frontal predominance without midline/bilateral involvement (RAISES PRIOR: IDH-MUTANT-PRIOR). However, this must be weighed against the WHO Grade 4 diagnosis driven by necrosis, which strongly favors an IDH-wildtype profile. Further molecular testing is recommended to confirm the subtype.

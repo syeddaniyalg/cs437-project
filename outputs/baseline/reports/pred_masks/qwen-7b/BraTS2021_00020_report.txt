@@ -1,0 +1,5 @@
+1. Findings: The MRI slice shows a heterogeneous mass in the left parietal lobe. The enhancing tumor (ET) is predominantly located in the periphery, with a central area of tumor core/necrosis (TC) and peritumoral edema (WT/ED) surrounding it. The enhancing tumor measures approximately 3.5 cm in diameter. The central area of tumor core/necrosis appears hypointense on this sequence, while the peritumoral edema is hyperintense.
+
+2. Assessment: The findings are consistent with a WHO CNS5 Grade III (Anaplastic Astrocytoma) or WHO CNS5 Grade IV (Glioblastoma) based on the imaging characteristics.
+
+3. Recommendations: The patient should be referred to a neuro-oncologist for further evaluation, including a biopsy to confirm the diagnosis and determine the specific molecular subtype. The patient should also be considered for a clinical trial or standard of care treatment options, such as surgery, radiation therapy, and chemotherapy.

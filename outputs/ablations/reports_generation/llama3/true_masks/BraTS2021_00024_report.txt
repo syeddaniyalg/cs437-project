@@ -1,0 +1,30 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the right frontal lobe with significant infiltration into surrounding brain tissue. The tumor measures approximately 104.47 mm in its longest diameter and has a volume of 101.451 mL. The enhancement pattern is solid, indicating a high likelihood of malignant disease. The tumor exhibits moderate heterogeneity, with a heterogeneity index of 0.667.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme. The necrosis fraction is high, indicating a poor prognosis. The IDH status is not explicitly stated in the graph, but the texture entropy suggests a possible IDH-wildtype subtype.
+
+**Triggered Clinical Guidelines:**
+The graph supports the diagnosis of glioblastoma multiforme and recommends surgical resection with adjuvant chemotherapy and radiation therapy (RTOG criteria). The graph also warns of pseudo-response risk due to the high necrosis fraction, emphasizing the need for close monitoring and early detection of any potential treatment failures.
+
+### 3. Clinical Management & Prescriptions
+**Surgical Oncology:**
+* Resectability: The tumor is considered resectable, but caution should be exercised due to its large size and infiltrative nature.
+* Adjuvant therapy: Recommend adjuvant chemotherapy and radiation therapy (RTOG criteria) to improve overall survival.
+
+**Radiation Therapy:**
+* Target volume: Include the entire brain with a 2-cm margin around the tumor.
+* Dose and fractionation: Deliver a total dose of 60 Gy in 30 fractions over 6 weeks, with a boost to the tumor bed of an additional 10 Gy in 5 fractions.
+
+**Chemotherapy:**
+* Agent: Recommend temozolomide as the primary chemotherapy agent.
+* Dosing and schedule: Administer temozolomide at a dose of 150-200 mg/m² daily for 5 days, followed by a 23-day rest period. Repeat cycles until disease progression or unacceptable toxicity.
+
+**Monitoring and Follow-up:**
+* Regular MRI scans every 2 months to monitor treatment response and detect any potential recurrences.
+* Close monitoring for pseudo-response risk due to the high necrosis fraction.
+
+Please note that this report is based on the provided radiomic features and categorical profile, and a comprehensive clinical evaluation should be performed to confirm the diagnosis and develop an individualized treatment plan.

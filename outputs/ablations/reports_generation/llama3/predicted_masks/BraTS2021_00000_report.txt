@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a multilobar tumor with primary involvement in the frontal lobe and secondary involvement in the occipital lobe, extending to the dominant right hemisphere. The tumor exhibits heterogeneous enhancement patterns, with a high level of heterogeneity index indicating significant variations in tissue properties within the lesion. The shape is highly irregular, with an elongation value of 0.5171 and flatness value of 0.3796. The tumor has a large volume (90.748 mL) and shows minimal infiltration into surrounding tissues.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the high heterogeneity index and irregular shape are consistent with a glioblastoma. Additionally, the necrosis fraction of 0.3801 and edema-to-tumor ratio of 0.0 suggest a highly aggressive tumor.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multilobar nature and minimal infiltration into surrounding tissues suggest that resection may be feasible, but further evaluation is necessary to determine the optimal surgical approach.
+* Focality: Given the multiple foci of involvement, a subtotal resection or biopsy may be more appropriate to ensure complete removal of all tumor tissue.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: The graph's guidelines recommend CTV expansion for ependymal contact and cortical truncation due to the tumor's proximity to eloquent cortex.
+* RANO warnings: The high heterogeneity index and irregular shape suggest a risk of pseudo-response, which should be monitored closely during treatment.

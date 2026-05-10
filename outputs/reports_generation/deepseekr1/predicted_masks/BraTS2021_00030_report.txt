@@ -1,0 +1,17 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging reveals a very large (138.1 mL), multicentric, irregularly shaped mass in the left frontal lobe. The lesion demonstrates solid contrast enhancement with significant heterogeneity (heterogeneity index 0.63) and necrosis (16.93% of tumor volume). Cortical involvement is confirmed, with no midline crossing or bilateral extension. Ependymal contact is present, and the tumor extends 5mm from the ventricular surface. Peritumoral edema is minimal (edema-to-tumor core ratio 0). The maximum 3D diameter is 119mm, exceeding 30mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis (WHO-GBM-NECROSIS guideline), the tumor is assigned WHO Grade 4. The molecular subtype is IDH-wildtype, as necrosis mandates Grade 4 classification in the IDH-wildtype pathway according to WHO criteria. While frontal predominance without midline/bilateral spread raises a prior for IDH-mutant (IDH-MUTANT-PRIOR), the presence of necrosis contraindicates an IDH-mutant diagnosis.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The tumor is located in the dominant hemisphere (Hemisphere: LEFT) and exhibits cortical involvement (cortical_involvement: True). This necessitates an awake craniotomy with functional mapping (TRIGGERS SURGICAL WARNING) to minimize risks to eloquent cortex and potentially resect as much viable tumor as safely possible. Resectability assessment should consider the large size (138 mL) and multicentric nature.
+
+*   **Radiation/Medical Oncology:**
+    *   Radiation therapy is indicated. Contouring must include ipsilateral ventricular wall expansion due to confirmed ependymal contact (RTOG-CTV-EPENDYMAL).
+    *   Cortical involvement requires truncation of the Clinical Target Volume (CTV) margin at the inner table of the skull (RTOG-CTV-CORTICAL).
+    *   Lesion size (>30mm) contraindicates Stereotactic RadioSurgery (SRS) as a primary modality (RTOG-SRS-EXCLUSION).
+    *   Treatment should incorporate RANO criteria, with caution for pseudo-response given the complex imaging features (e.g., necrosis, edema-to-tumor core ratio 0). Molecular testing for MGMT promoter methylation is recommended to guide radiation and temozolomide sequencing.

@@ -1,0 +1,25 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the right frontal lobe with significant infiltration into surrounding brain tissue. The tumor measures approximately 89.26 mL in volume and exhibits moderate enhancement on T1-weighted images. The lesion shows mild heterogeneity with a high entropy value of 3.966128, indicating a complex texture pattern. The peritumoral FLAIR ratio is elevated at 1.3183, suggesting significant edema surrounding the tumor.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with an IDH-wildtype molecular subtype. The necrosis fraction of 0.0098 supports this conclusion, as does the high entropy value indicating a complex tumor texture.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that it may be challenging to resect completely.
+* Focality: The lesion is unifocal, which favors surgical resection over radiation therapy as the primary treatment modality.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain should be included in the radiation field due to the tumor's infiltrative nature and potential for microscopic disease.
+* Dose and fractionation: A standard glioblastoma regimen of 60 Gy in 30 fractions over 6 weeks is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) should be considered as part of a combined modality treatment approach to improve overall survival and local control.
+* Bevacizumab may also be considered for patients who have progressed on TMZ or are not candidates for surgical resection.

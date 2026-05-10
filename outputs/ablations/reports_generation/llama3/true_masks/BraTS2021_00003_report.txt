@@ -1,0 +1,25 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe of the left hemisphere, with significant infiltration into surrounding brain tissue. The tumor measures approximately 99.24 mL in volume and exhibits heterogeneous enhancement on T1-weighted imaging. The lesion is characterized by a high degree of heterogeneity, with features such as high entropy, energy, and coarseness on texture analysis.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme. The graph's guidelines support this conclusion, citing the tumor's large size, irregular shape, and extensive infiltration into surrounding brain tissue.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and extent suggest that a subtotal resection may be feasible.
+* Focality: Given the unifocal nature of the lesion, a single surgical approach is likely sufficient.
+* Eloquent cortex risks: Due to the tumor's proximity to eloquent cortex, awake mapping techniques should be considered if dominant hemisphere involvement is suspected.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV (Clinical Target Volume): Include the entire tumor volume and a 2-3 cm margin around it.
+	+ PTV (Planning Target Volume): Add an additional 0.5-1 cm to the CTV to account for setup errors and internal motion.
+* FLAIR-WT glcm contrast: The high contrast value suggests that radiation therapy may be effective in treating this tumor.
+
+Note: These recommendations are based on the provided radiomic and topographical findings, as well as triggered clinical guidelines. A comprehensive evaluation by a multidisciplinary team of healthcare professionals is necessary to develop an individualized treatment plan for this patient.

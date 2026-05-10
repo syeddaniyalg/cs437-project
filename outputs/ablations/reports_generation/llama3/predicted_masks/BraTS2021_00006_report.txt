@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multilocular tumor with multiple foci of enhancement in the frontal and occipital lobes, extending to the deep structures and temporal lobe. The tumor exhibits an irregular shape with a volume of approximately 152 mL, showing minimal infiltration into surrounding brain tissue. The primary focus is located in the right frontal lobe, with satellites in the left frontal and occipital lobes. The tumor has a solid enhancing pattern with low intensity on T1-weighted images.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-negative. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's irregular shape, minimal infiltration, and low enhancement intensity are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multilocularity and cortical involvement may require a more extensive resection to achieve gross total resection.
+* Focality: The primary focus is located in the right frontal lobe, with satellites in other lobes. This may necessitate a more complex surgical approach to ensure complete removal of all tumor foci.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: Given the tumor's proximity to eloquent cortex and deep structures, CTV expansion for ependymal contact and cortical truncation may be necessary to minimize radiation-induced toxicity.
+* RANO warnings: The graph indicates that the tumor exhibits minimal infiltration into surrounding brain tissue. This suggests a low risk of pseudo-response, but close monitoring is still recommended during treatment.
+
+Note: The report is generated based on the provided Knowledge Graph context and does not include any additional clinical information or patient-specific factors.

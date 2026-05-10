@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, highly irregular frontal left brain lesion (AnatomicLocation: Frontal) with moderate volume (VolumeCategory: MODERATE, vol_wt_mL: 16.006). The lesion exhibits heterogeneous enhancement (EnhancementPattern: HETEROGENEOUS) and significant peritumoral FLAIR signal abnormality (peritumoral_flair_ratio: 1.6681). Cortical involvement (cortical_involvement: True) and ependymal contact (ependymal_contact: True) are present, with the tumor located 5mm from the ventricular wall. The lesion extends bilaterally (is_bilateral: True) and has a maximum diameter of 134.99mm (max_3d_diameter_mm). Midline crossing is absent (midline_crossing: NONE). Significant necrosis (proportion_necrosis: 0.5117) and tumor heterogeneity (heterogeneity_index: 0.7778) are evident, with satellite lesions (has_satellites: True) and minimal edema relative to tumor core volume (edema_to_tc_ratio: 0.0069).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype), necessitated by the presence of necrosis (proportion_necrosis: 0.5117). This conclusion is directly supported by the triggered clinical guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS), which mandates Grade 4 designation in the IDH-wildtype molecular pathway. Further molecular characterization (IDH/EGFR status) is required to refine the diagnosis and guide targeted therapy.
+
+### 3. Clinical Management & Prescriptions
+The following management recommendations are derived from the integrated analysis and triggered clinical guidelines:
+
+*   **Surgical Oncology:**
+    *   The tumor demonstrates significant multicentricity, heterogeneity, necrosis, and cortical involvement, with evidence of ependymal contact and proximity to the ventricle (ventricular_proximity_mm: 5). Surgical resection is strongly recommended.
+    *   Given the tumor's location in the left hemisphere (Hemisphere: LEFT) and potential for eloquent cortex involvement, an awake craniotomy with cortical mapping is explicitly triggered and required (SurgicalRisk ID: ELOQUENT-CORTEX-LEFT). This is critical to preserve neurological function, particularly speech.
+
+*   **Radiation/Medical Oncology:**
+    *   **Indications:** Post-operative radiotherapy is indicated due to the tumor's high-grade nature (WHO Grade 4), significant necrosis, and extent of involvement.
+    *   **RTOG Radiation Contouring Modifications:**
+        *   **CTV Expansion:** The presence of ependymal contact (ependymal_contact: True) necessitates expansion of the Clinical Target Volume (CTV) to include the ipsilateral ventricular wall (RTOG_Guideline ID: RTOG-CTV-EPENDYMAL).
+        *   **Cortical Truncation:** Cortical involvement (cortical_involvement: True) requires truncation of the CTV margin at the inner table of the skull, prohibiting extension into the bone/air interface (RTOG_Guideline ID: RTOG-CTV-CORTICAL).
+    *   **Contraindications:** Stereotactic radiosurgery (SRS) as a primary modality is explicitly contraindicated due to the lesion's maximum diameter exceeding 30mm (max_3d_diameter_mm: 134.99) (RTOG_Guideline ID: RTOG-SRS-EXCLUSION).
+    *   **RANO Warnings:** The high-grade nature and potential for pseudo-responses warrant close monitoring using RANO criteria post-radiotherapy initiation.

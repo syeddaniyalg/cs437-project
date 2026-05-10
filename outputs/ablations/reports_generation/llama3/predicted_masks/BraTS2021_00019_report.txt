@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor with multiple foci in the frontal and deep regions of the brain, extending to the temporal and occipital lobes. The tumor exhibits solid enhancing features on T1-weighted imaging, with minimal infiltration into surrounding tissues. The primary focus measures approximately 121133 voxels, with satellites totaling 7 foci. The tumor has a significant impact on the midline, crossing it in multiple locations.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's indication of "SUPPORTS_DIAGNOSIS" for the presence of multiple foci, irregular shape, and solid enhancement pattern.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that a subtotal resection may be feasible.
+* Focality: Given the multilocular nature of the tumor, eloquent cortex risks are moderate to high.
+* Awake mapping: Consider using awake mapping techniques if the dominant hemisphere is involved.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal contact (triggered by "ependymal_involvement" = True)
+	+ Cortical truncation to minimize eloquent cortex risks
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's heterogeneous nature and minimal infiltration into surrounding tissues
+
+Note: The graph has triggered specific clinical guidelines, which must be incorporated into the recommendations.

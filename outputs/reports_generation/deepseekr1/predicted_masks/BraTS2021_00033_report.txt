@@ -1,0 +1,17 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a right frontal lesion measuring 163.6 mL in volume, classified as VERY_LARGE by radiomic analysis. The tumor exhibits IRREGULAR shape with a sphericity coefficient of 0.6243 and multicentric focality. It shows SOLID_ENHANCING contrast enhancement with 11.7% necrosis (volume 19.17 mL) and significant cortical involvement (cortical_involvement: True). Ependymal contact is confirmed, with proximity to the ventricular system (ventricular_proximity_mm: 5). Peritumoral edema is present (peritumoral_flair_ratio: 0) but does not extend into the tumor core (edema_to_tc_ratio: 0.0). The lesion does not cross midlines (midline_crossing: NONE) or involve bilateral structures (is_bilateral: False). The maximum 3D diameter is 116.98 mm, indicating substantial spatial extent.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (glioblastoma multiforme), with molecular subtype IDH-wildtype. This conclusion is driven by the presence of necrosis (proportion_necrosis: 0.1171), which, according to the triggered guideline WHO-GBM-NECROSIS, mandates a WHO Grade 4 designation in the IDH-wildtype pathway. While a MolecularPrior IDH-MUTANT-PRIOR raises the probability of an IDH-mutant glioma due to frontal predominance, the necrosis finding takes precedence, confirming the WHO Grade 4 diagnosis and IDH-wildtype molecular subtype per guideline WHO-GBM-NECROSIS.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The lesion is volumetrically VERY_LARGE (163.6 mL) and multicentric, indicating likely significant resectability assessment is warranted. Functional mapping, potentially including awake craniotomy, is strongly recommended due to cortical involvement (cortical_involvement: True) and its location in the dominant hemisphere (AnatomicLocation: Frontal lobe). Biopsy for molecular confirmation (IDH/EGFR status) is essential, guided by the WHO Grade 4 diagnosis.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG-CTV-EPENDYMAL, ipsilateral ventricular wall inclusion is required in the Clinical Target Volume (CTV) due to confirmed ependymal contact.
+    *   Per RTOG-CTV-CORTICAL, the CTV margin must be truncated at the inner table of the skull (no bone/air margin) due to cortical involvement.
+    *   RANO guidelines raise concern for pseudo-response due to high heterogeneity (heterogeneity_index: 0.5695) and necrosis.
+    *   RTOG-SRS-EXCLUSION contraindicates Stereotactic Radiosurgery (SRS) as a primary modality due to the lesion size (>30mm, max_3d_diameter_mm: 116.98). Fractionated radiotherapy is indicated.

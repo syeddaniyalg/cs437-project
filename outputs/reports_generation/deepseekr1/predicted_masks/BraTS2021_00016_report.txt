@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, highly irregular mass located in the right frontal lobe, with a maximum diameter of 115.24 mm. The tumor exhibits heterogeneous contrast enhancement and significant necrosis comprising 42.44% of the lesion volume (71.026 mL). There is direct contact with the ependymal lining and proximity to the ventricular system (5 mm). Cortical involvement is confirmed, with no midline crossing or bilateral extension. Peritumoral edema is absent (peritumoral FLAIR ratio 0), and the edema-to-tumor core ratio is 0.0. The lesion shows moderate heterogeneity (heterogeneity index 0.701) and has satellite components.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically **WHO Grade 4 astrocytoma (IDH-wildtype)**. This conclusion is supported by the **[SUPPORTS DIAGNOSIS]** guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS), which mandates a WHO Grade 4 designation in the IDH-wildtype pathway due to the presence of necrosis (proportion_necrosis: 0.4244).
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resectability assessment is indicated, considering the tumor's large size (71 mL), cortical involvement, and multicentric nature. Pre-operative functional mapping, including awake mapping, is strongly recommended given the location in the dominant hemisphere (Hemisphere: {'side': 'RIGHT'}).
+    *   Address potential eloquent cortex involvement, particularly for functions mapped during surgery.
+
+*   **Radiation/Medical Oncology:**
+    *   **[REQUIRES CLINICAL ACTION]** RTOG-CTV-EPENDYMAL (ID: RTOG-CTV-EPENDIMAL): CTV expansion is required to include the ipsilateral ventricular wall due to confirmed ependymal contact.
+    *   **[REQUIRES CLINICAL ACTION]** RTOG-CTV-CORTICAL (ID: RTOG-CTV-CORTICAL): Cortical involvement necessitates truncating the CTV margin at the inner table of the skull (no margin into bone/air).
+    *   **[CONTRAINDICATES]** RTOG-SRS-EXCLUSION (ID: RTOG-SRS-EXCLUSION): Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion size (>30mm). Conventional fractionated radiotherapy is recommended.
+    *   Per RANO guidelines, caution is advised for pseudo-response assessment given the heterogeneous enhancement pattern.

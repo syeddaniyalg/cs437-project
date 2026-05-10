@@ -1,0 +1,46 @@
+Okay, here is a structured report summarizing the key findings from the provided dataset for a suspected or diagnosed tumor:
+
+---
+
+# Tumor Characterization Report
+
+## 1. Location and Size
+*   **Primary Location:** Right hemisphere, unifocal (single dominant lesion), primarily located in the **Frontal** lobe.
+*   **Size:** Classified as a **Very Large** tumor based on volumetric analysis.
+
+## 2. Morphological and Textural Characteristics
+*   **Shape:** Highly irregular and complex in shape.
+*   **Texture/Heterogeneity:**
+    *   Appears **Highly Heterogeneous** based on internal texture analysis (GLCM features).
+    *   The overall tumor heterogeneity is categorized as **Highly Heterogeneous**.
+    *   Component analysis suggests a significant contribution to heterogeneity from standard deviation (std_contribution = 1.0) and entropy (entropy_contribution = 0.6429).
+*   **Infiltration:** Peritumoral infiltration is categorized as **Mild**.
+
+## 3. Enhancement and Composition
+*   **Enhancement Pattern:** Solid enhancing pattern.
+*   **Enhancement Intensity:** Moderate.
+*   **Ependymal Involvement:** Confirmed.
+*   **Cortical Involvement:** Confirmed.
+
+## 4. Derived Metrics and Context
+*   **Edema:** Significant peritumoral edema is present, with a calculated FLAIR/edema ratio of 1.3183, indicating substantial edema relative to tumor volume.
+*   **Edema-to-Tumor Ratio:** The ratio (ed_tc_volume_ratio) is 10.6817, confirming extensive surrounding edema.
+
+## 5. Summary Classification
+*   **Volume Bin:** VERY_LARGE
+*   **Shape Bin:** HIGHLY_IRREGULAR
+*   **Enhancement Pattern:** SOLID_ENHANCING
+*   **Enhancement Level:** MODERATE
+*   **Heterogeneity Level:** HIGHLY_HETEROGENEOUS
+*   **Infiltration Level:** MILD_INFILTRATION
+*   **Hemisphere:** RIGHT
+*   **Primary Lobe:** Frontal
+*   **Focality:** UNIFOCAL
+*   **Ependymal Involvement:** YES
+*   **Cortical Involvement:** YES
+
+---
+
+## Conclusion
+
+This is a **very large, highly irregular, and heterogeneous tumor** located unilaterally in the **right frontal lobe**. It exhibits a **solid, moderate enhancement pattern** and involves both the cortex and ependyma. Significant peritumoral edema is present. The tumor demonstrates **mild infiltration** into surrounding tissue. Given its size, location, and characteristics, this finding represents a **clinically significant lesion** requiring further evaluation and consideration for appropriate management strategies.

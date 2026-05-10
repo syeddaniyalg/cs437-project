@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe of the left hemisphere, with significant infiltration into the surrounding brain tissue. The tumor measures approximately 88.37 mL in volume and exhibits solid enhancing features on T1-weighted imaging. The lesion shows mild edema and moderate necrosis, with a heterogeneous texture profile indicating a mix of high- and low-density regions. The tumor's centroid is located at MNI coordinates (-159.2, 94.57, 86.77), with a maximum diameter of approximately 84 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and topographical information, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with a molecular subtype consistent with the "Proneural" category. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's volume, shape, and enhancement pattern are all consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that a subtotal resection may be feasible.
+* Focality: Given the unifocal nature of the lesion, a single surgical approach is likely sufficient.
+* Eloquent cortex risks: Due to the tumor's proximity to critical brain regions, careful planning and intraoperative monitoring are essential to minimize potential neurological deficits.
+
+**Radiation Oncology:**
+
+* The graph's guidelines suggest that radiation therapy should be considered as part of the treatment plan, given the tumor's size and location.
+* Dose and fractionation: Further consultation with a radiation oncologist is necessary to determine the optimal dose and fractionation scheme for this patient.
+
+**Chemotherapy:**
+
+* The graph's recommendations indicate that chemotherapy may be beneficial in combination with radiation therapy, particularly if the tumor is IDH-wildtype.
+* Agent selection: A discussion with an oncologist is needed to determine the most appropriate chemotherapeutic agent(s) for this patient.

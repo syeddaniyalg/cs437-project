@@ -1,0 +1,31 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the right frontal lobe with deep extension, measuring approximately 99.385 mL in volume. The tumor exhibits solid enhancing features on T1-weighted imaging and has a heterogeneous appearance on FLAIR sequences. The primary focus is unifocal, and the tumor does not cross the midline. Cortical involvement is present, with an overlap of 45778 voxels. The centroid is located at (-167.58, 94.76, 74.05) in MNI space.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's indication of "SUPPORTS_DIAGNOSIS" for necrosis forcing Grade 4 and texture entropy predicting IDH-wildtype.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size, location, and irregular shape suggest that a subtotal resection may be feasible.
+* Focality: Given the unifocal nature of the primary focus, a single surgical approach is likely sufficient.
+* Cortical involvement: The presence of cortical involvement may require additional considerations for surgical planning.
+
+**Radiation Therapy:**
+
+* Target volume: The entire tumor volume, including any infiltrative components, should be included in the target volume.
+* Dose and fractionation: A standard glioblastoma treatment regimen with 60 Gy in 30 fractions is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ): TMZ is a commonly used agent for glioblastoma treatment. The optimal duration of TMZ therapy has not been established, but a typical course consists of 5-6 cycles.
+* Bevacizumab (Avastin): This monoclonal antibody may be considered as an adjunct to standard chemotherapy.
+
+**Follow-up:**
+
+* MRI surveillance: Regular MRI scans should be performed every 2-3 months to monitor the tumor's response to treatment and detect any potential recurrences.
+* Clinical evaluation: Patients should undergo regular clinical evaluations, including neurological exams and assessments of cognitive function.

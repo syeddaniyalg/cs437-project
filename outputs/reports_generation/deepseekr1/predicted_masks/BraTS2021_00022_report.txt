@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a **VERY_LARGE** volume (96.1 mL) left frontal glioma exhibiting **IRREGULAR** shape with a sphericity index of 0.6749. The lesion shows **SOLID_ENHANCING** contrast uptake and exhibits significant heterogeneity (heterogeneity index 0.6462). Peritumoral edema is present (peritumoral FLAIR ratio 2.6845) with direct cortical involvement (cortical involvement True) and ependymal contact (ependymal_contact True). The tumor demonstrates multicentric characteristics (focality MULTICENTRIC) and measures up to 118.46 mm in maximum diameter (max_3d_diameter_mm). Ipsilateral ventricular proximity (ventricular_proximity_mm: 5) and tumor satellites (has_satellites: True) are present, with no midline crossing (midline_crossing: NONE) or bilateral involvement (is_bilateral: False). Necrosis accounts for 14.93% of the tumor volume (proportion_necrosis: 0.1493). Edema-to-tumor core ratio is 0.0 (edema_to_tc_ratio: 0.0).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is **Diffuse Glioma, WHO Grade IV**, **IDH-wildtype**. This conclusion is directly supported by the **[SUPPORTS DIAGNOSIS]** guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS), which mandates WHO Grade 4 designation in the IDH-wildtype pathway due to the presence of necrosis (proportion_necrosis: 0.1493). While the **[RAISES PRIOR]** guideline IDH-MUTANT-PRIOR (ID: IDH-MUTANT-PRIOR) suggests an IDH-mutant probability based on frontal predominance, the necrosis forces the IDH-wildtype pathway according to WHO criteria.
+
+### 3. Clinical Management & Prescriptions
+#### A. Surgical Oncology
+*   **Resectability:** Standard maximal safe resection is indicated. Preoperative planning should account for the tumor's large volume (96.1 mL), multicentric nature, and direct cortical involvement.
+*   **Eloquent Cortex Risk:** The tumor involves the left hemisphere, raising the possibility of eloquent cortex (likely motor/sensory/somatosensory) involvement. **[TRIGGERS SURGICAL WARNING]** guideline RTOG-CTV-EPENDYMAL (ID: ELOQUENT-CORTEX-LEFT) indicates awake craniotomy with cortical mapping is strongly recommended to preserve neurological function.
+
+#### B. Radiation/Medical Oncology
+*   **Radiation Contouring Modifications (RTOG):**
+    *   **Ependymal Contact:** **[REQUIRES CLINICAL ACTION]** guideline RTOG-CTV-EPENDYMAL (ID: RTOG-CTV-EPENDYMAL) mandates CTV expansion to include the ipsilateral ventricular wall due to ependymal contact.
+    *   **Cortical Involvement:** **[REQUIRES CLINICAL ACTION]** guideline RTOG-CTV-CORTICAL (ID: RTOG-CTV-CORTICAL) requires truncating the CTV margin at the inner table of the skull (no bone/air margin).
+*   **Treatment Modality:** **[CONTRAINDICATES]** guideline RTOG-SRS-EXCLUSION (ID: RTOG-SRS-EXCLUSION) contraindicates Stereotactic RadioSurgery (SRS) as a primary modality due to the lesion size (>30mm).
+*   **RANO Warnings:** The presence of necrosis and potentially complex texture features may raise the risk of pseudo-response according to RANO criteria, necessitating careful response assessment using validated metrics.

@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a right-sided frontal lobe tumor with moderate volume (18.462 mL) and regular shape, exhibiting solid enhancing pattern with high intensity. The tumor is located in the dominant hemisphere, has mild infiltration, and shows heterogeneous texture features. The primary focus size is 18454 voxels, with no satellites or ependymal contact.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-negative. This conclusion is supported by the graph's guidelines for necrosis forcing Grade 4 diagnosis (Necrosis > 0.0009) and texture entropy predicting IDH-wildtype status (Texture entropy > 4.698998).
+
+### 3. Clinical Management & Prescriptions
+**Surgical Oncology:**
+* Resectability: The tumor is considered resectable, with no eloquent cortex risks.
+* Focality: The primary focus size is 18454 voxels, indicating a unifocal lesion.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal contact (not applicable).
+	+ Cortical truncation (not necessary due to regular shape and no cortical involvement).
+* FLAIR-WT glcm contrast > 6.063, indicating high heterogeneity; consider incorporating this feature into the treatment plan.
+* T1ce-ET glcm entropy > 8.8736, suggesting IDH-wildtype status; incorporate this information into the molecular subtype diagnosis.
+
+Note: The triggered clinical guidelines are based on the radiomic and topographical findings, as well as the derived features from the texture analysis.

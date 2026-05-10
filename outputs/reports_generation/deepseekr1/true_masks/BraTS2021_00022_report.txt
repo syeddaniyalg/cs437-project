@@ -1,0 +1,18 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, left frontal lesion with very large volumetrics (112.95 mL). The mass exhibits irregular shape with solid, homogeneous contrast enhancement. Significant necrosis (15.46% volume) and substantial peritumoral edema (edema-to-tumor core ratio 0.7293) are present. Cortical involvement is confirmed, with no midline crossing or bilateral involvement. Ependymal contact is present, and the tumor extends 5 mm from the ventricular surface. Peritumoral FLAIR signal ratio is elevated (1.9212).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Per the WHO CNS5 classification and the triggered guideline **[SUPPORTS DIAGNOSIS] WHO_Standard (id: WHO-GBM-NECROSIS)**, the tumor is assigned WHO Grade 4 (anaplastic astrocytoma or glioblastoma). This designation is mandated by the presence of necrosis in an IDH-wildtype molecular context. The triggered guideline **[RAISES PRIOR] MolecularPrior (id: IDH-MUTANT-PRIOR)** raises the probability of IDH-mutant glioma, but the necrotic feature necessitates the Grade 4 assignment in the IDH-wildtype pathway.
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   The tumor is located in the left hemisphere, implicating potential eloquent cortex. A triggered guideline **[TRIGGERS SURGICAL WARNING] SurgicalRisk (id: ELOQUENT-CORTEX-LEFT)** indicates awake craniotomy with functional mapping is strongly recommended to preserve critical speech and motor functions during resection.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG guidelines **[REQUIRES CLINICAL ACTION] RTOG_Guideline (id: RTOG-CTV-EPENDYMAL)**, CTV expansion must be planned to include the ipsilateral ventricular wall due to confirmed ependymal contact.
+    *   Given confirmed cortical involvement **[REQUIRES CLINICAL ACTION] RTOG_Guideline (id: RTOG-CTV-CORTICAL)**, CTV contouring must be truncated at the inner table of the skull; no expansion margin into the bone or air cavity is permitted.
+    *   The lesion diameter exceeds 30 mm **[CONTRAINDICATES] RTOG_Guideline (id: RTOG-SRS-EXCLUSION)**, making stereotactic radiosurgery (SRS) as a primary modality contraindicated. Treatment planning must proceed with fractionated radiotherapy.

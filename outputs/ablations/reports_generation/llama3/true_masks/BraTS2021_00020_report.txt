@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor with heterogeneous enhancement pattern and mild infiltration. The primary focus is located in the right frontal lobe, with multifocal involvement and ependymal contact. Cortical involvement is also present. The tumor exhibits high heterogeneity index and entropy contribution.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's heterogeneous enhancement pattern, irregular shape, and mild infiltration are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability: The tumor's multifocal involvement and ependymal contact suggest that surgical resection may be challenging.
+* Focality: Given the multifocal nature of the tumor, focal resection may not be feasible.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal contact
+	+ Cortical truncation to minimize eloquent cortex risks
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's heterogeneous enhancement pattern and mild infiltration
+
+Note: The above report is generated based on the provided radiomic features and categorical profile. However, a comprehensive clinical evaluation, including patient history, physical examination, laboratory tests, and other diagnostic studies, is necessary for an accurate diagnosis and treatment plan.

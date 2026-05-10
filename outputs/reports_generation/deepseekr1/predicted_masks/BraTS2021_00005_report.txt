@@ -1,0 +1,19 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a very large (131.77 mL) multifocal left frontal lobe lesion with irregular shape (sphericity 0.577) exhibiting solid contrast enhancement. The lesion shows significant heterogeneity (heterogeneity index 0.606) and contains 18.48% necrosis. Cortical involvement is confirmed, with no detectable edema (edema-to-tumor core ratio 0.0). The tumor extends to contact the ventricular system (ependymal contact True) and is located in the left hemisphere. Peritumoral FLAIR signal is minimal (peritumoral flair ratio 0). The lesion does not cross midlines (midline crossing: WT_ONLY) and is unilateral (is_bilateral: False). The maximum dimension is 112.94 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis, WHO Grade 4 (IDH-wildtype) is mandated per guideline WHO-GBM-NECROSIS. The molecular subtype is predicted to be IDH-wildtype. The VASARI classification indicates an irregular, solid enhancing, very large frontal lesion in the left hemisphere. RANO criteria flag a pseudo-response as a potential risk during treatment monitoring. The diagnosis is strongly supported by the necrotic component necessitating Grade 4 classification in the absence of specified IDH-mutant features.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:**
+    *   Resectability assessment is indicated given the large size and cortical involvement. Pre-operative planning must account for the left hemisphere location, raising the possibility of eloquent cortex involvement.
+    *   [TRIGGERS SURGICAL WARNING] Surgical guidelines strongly recommend awake craniotomy with electrocortical mapping to identify and preserve language and motor functions, particularly given the frontal location and potential for impacting eloquent cortex.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG-CTV-EPENDYMAL, ipsilateral ventricular wall involvement requires CTV expansion to include this structure.
+    *   Per RTOG-CTV-CORTICAL, cortical involvement necessitates truncating the CTV margin at the inner table of the skull (no bone/air margin).
+    *   RTOG-SRS-EXCLUSION contraindicates stereotactic radiosurgery (SRS) as a primary modality due to the lesion volume exceeding 30 mL.
+    *   Given the size (>30mm) and complexity, fractionated radiotherapy (conformal or intensity-modulated radiotherapy) is required. Treatment planning must strictly adhere to the CTV contouring modifications specified above.

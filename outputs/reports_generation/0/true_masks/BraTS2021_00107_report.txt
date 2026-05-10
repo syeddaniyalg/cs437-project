@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multifocal, solid-enhancing glioblastoma (WHO Grade 4) with significant necrosis (>3.95%) in the left frontal lobe. The tumor exhibits regular shape and has a very large volume (>82.92 mL). It shows ependymal contact and proximity to the ventricular system, necessitating CTV expansion to include the ipsilateral ventricular wall. Cortical involvement is also detected, warranting cortical truncation at the inner table of the skull. The lesion's heterogeneous nature is reflected in its high entropy value (8.2095) on T1ce ET glcm analysis.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the triggered clinical guidelines, the most likely diagnosis is a WHO Grade 4 glioblastoma with IDH-wildtype molecular subtype. The presence of necrosis (>3.95%) supports this diagnosis, as per the WHO-GBM-Necrosis guideline.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: Given the tumor's multifocal nature and dominant hemisphere involvement, awake craniotomy mapping is indicated to preserve speech.
+* Focality: The lesion's multifocal pattern necessitates a comprehensive surgical approach.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include the ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-Ependymal).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-Cortical).
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's heterogeneous nature and high entropy value on T1ce ET glcm analysis.
+* Contraindications: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-Exclusion).

@@ -1,0 +1,19 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a right-sided, irregularly shaped glioblastoma with heterogeneous enhancement pattern and moderate volume category. The tumor exhibits ependymal contact and proximity to the ventricular system, measuring approximately 5mm from the midline. Cortical involvement is noted, with satellites present. The sphericity index suggests an irregular shape, while the proportion of necrosis indicates a significant component of this lesion.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and triggered clinical guidelines, the most likely diagnosis is a WHO Grade 4 glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-NECROSIS).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's size and location suggest that resection may be feasible, but further evaluation is required to determine eloquent cortex risks.
+* Focality: The multicentric nature of the tumor requires a comprehensive surgical approach.
+
+**Radiation/Medical Oncology:**
+* RTOG_Guideline (RTOG-CTV-EPENDYMAL): CTV expansion is necessary to include the ipsilateral ventricular wall due to ependymal proximity/contact.
+* RTOG_Guideline (RTOG-CTV-CORTICAL): Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air).
+* Contraindication: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).

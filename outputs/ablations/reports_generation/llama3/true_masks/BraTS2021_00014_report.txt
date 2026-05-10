@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, regular-shaped tumor located in the frontal lobe of the right hemisphere, with mild infiltration into surrounding brain tissue. The tumor measures approximately 68.48 mm in its longest diameter and has a volume of 38.358 mL. The enhancement pattern is solid, with high intensity on T1ce-weighted images. The tumor exhibits heterogeneous texture features, including high contrast, entropy, and energy values.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme. This conclusion is supported by the large tumor size, irregular shape, and high enhancement intensity, which are all indicative of aggressive tumor behavior. Additionally, the mild infiltration into surrounding brain tissue suggests that the tumor has already begun to spread.
+
+The triggered clinical guidelines indicate that this diagnosis supports a recommendation for surgical resection, with consideration for awake mapping if the dominant hemisphere is involved. The graph also recommends radiation therapy with a CTV expansion for ependymal contact and cortical truncation.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that it may be resectable, but further evaluation is needed to determine the optimal surgical approach.
+* Awake mapping: If the dominant hemisphere is involved, consider using awake mapping techniques to preserve language function.
+
+**Radiation Therapy:**
+
+* CTV expansion for ependymal contact: Expand the clinical target volume (CTV) to include the ependyma to ensure adequate coverage of this critical structure.
+* Cortical truncation: Consider truncating the cortical surface to minimize radiation exposure to normal brain tissue.
+
+Note: These recommendations are based on the radiomic and topographical findings, as well as the triggered clinical guidelines. Further evaluation and consultation with a multidisciplinary team of healthcare professionals is necessary to determine the optimal treatment plan for this patient.

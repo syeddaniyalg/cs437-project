@@ -1,0 +1,15 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion measuring 49.17 mL (max diameter 75 mm) with a regular shape (sphericity 0.7176) and solid enhancing pattern. The lesion exhibits significant necrosis (22.27% volume) and direct ependymal contact. Cortical involvement is confirmed, with no midline crossing or satellite lesions. Bilateral involvement is present, with minimal peritumoral edema (edema-to-tumor core ratio 0). The lesion is classified as large volume (VASARI bin 'LARGE').
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype) based on the presence of necrosis, which, according to guideline WHO-GBM-NECROSIS, mandates Grade 4 designation in the IDH-wildtype molecular pathway.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The lesion's size (>30mm), cortical involvement, and bilateral nature necessitate surgical evaluation. Preoperative assessment should include functional MRI and potentially intraoperative awake mapping due to the right frontal location (potentially involving eloquent motor cortex) to maximize resection while minimizing neurological deficits.
+*   **Radiation/Medical Oncology:**
+    *   Radiation therapy is indicated. Contouring modifications are required: Expand the Clinical Target Volume (CTV) to include the ipsilateral ventricular wall due to ependymal contact (RTOG guideline RTOG-CTV-EPENDYMAL).
+    *   Cortical involvement necessitates truncation of the CTV margin at the inner table of the skull (no bone/air margin) (RTOG guideline RTOG-CTV-CORTICAL).
+    *   Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion volume exceeding 30 mL (RTOG guideline RTOG-SRS-EXCLUSION). Standard fractionated radiotherapy with concurrent chemotherapy is recommended. Per RANO guidelines, close monitoring for pseudo-response is advised given the imaging characteristics.

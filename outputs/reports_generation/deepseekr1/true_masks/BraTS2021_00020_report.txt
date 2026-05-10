@@ -1,0 +1,16 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multifocal, irregular lesion located in the right frontal lobe, measuring 59.92 mL in volume with a maximum diameter of 77.78 mm. The tumor exhibits heterogeneous enhancement and significant heterogeneity (heterogeneity index 0.6274). Peritumoral edema is present, evidenced by a FLAIR ratio of 1.3617 and edema-to-tumor core ratio of 0.8697. The lesion involves the cortex (cortical involvement: True) and makes contact with the ependymal surface (ependymal_contact: True), with a proximity of 5 mm to the ventricle. No midline crossing or bilateral involvement beyond the specified hemisphere is detected. Necrosis comprising 19.42% of the tumor volume is present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (anaplastic astrocytoma or glioblastoma multiforme), classified as IDH-wildtype molecular subtype. This diagnosis is supported by the presence of necrosis (WHO-GBM-NECROSIS guideline), which mandates Grade 4 designation in the IDH-wildtype pathway. The tumor demonstrates significant volumetric heterogeneity and multifocal characteristics, consistent with high-grade glioma behavior.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** Resection is strongly recommended given the large volume (59.92 mL), cortical involvement, and multifocal nature. Preoperative MRI volumetric analysis should guide resection targets. Due to cortical involvement, the risk of eloquent cortex infiltration necessitates consideration for awake mapping, particularly given the frontal lobe location which may include motor/sensory areas. Bilateral involvement (is_bilateral: True) requires consideration of contralateral resection or biopsy if clinically indicated. The irregular shape and ependymal contact may complicate complete resection.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG-CTV-EPENDYMAL guidelines, CTV expansion must be performed to include the ipsilateral ventricular wall due to ependymal contact.
+    *   Per RTOG-CTV-CORTICAL guidelines, CTV truncation is required at the inner table of the skull (no margin into bone/air) due to detected cortical involvement.
+    *   Chemoradiation therapy is indicated. SRS is contraindicated as the lesion diameter exceeds 30 mm (RTOG-SRS-EXCLUSION guideline). Standard fractionation schedules with concurrent temozolomide are recommended. RANO guidelines caution against pseudo-response patterns given the heterogeneous enhancement and necrosis; regular imaging assessments using validated response criteria are mandatory.

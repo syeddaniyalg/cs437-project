@@ -1,0 +1,41 @@
+Okay, here is a structured report summarizing the key findings from the provided dataset for a suspected or diagnosed tumor:
+
+---
+
+# Tumor Report Summary
+
+Based on the provided imaging and analysis data, the following characteristics are observed:
+
+## 1. Morphology & Location
+*   **Size:** Moderate volume, classified as 'MODERATE'.
+*   **Location:** Primarily located in the **left frontal lobe**. Demonstrates **midline crossing** involving white matter tracts (WT only).
+*   **Shape:** Highly irregular ("HIGHLY_IRREGULAR") and multicentric ("MULTICENTRIC"). Likely presents with a spiculated or irregular border.
+*   **Cortical Involvement:** Confirmed involvement of the cortex ("cortical_involvement": True).
+*   **Ependymal Involvement:** Confirmed involvement of the ependyma ("ependymal_involvement": True).
+
+## 2. Texture & Heterogeneity
+*   **Heterogeneity:** Classified as "HIGHLY_HETEROGENEOUS" based on both texture analysis and volume ratio metrics.
+*   **Texture Analysis:** Moderate levels of heterogeneity detected in several regions:
+    *   **T1ce Enhancing Component (ET):** Moderate contrast and entropy values.
+    *   **FLAIR Hyperintense Component (WT):** High entropy and contrast values, indicating significant signal abnormality.
+    *   **T1 Core Component (TC):** Moderate contrast and entropy values.
+    *   **T2 Edema Component (ED):** Moderate contrast and entropy values.
+*   **Heterogeneity Index:** Calculated value of 0.6654, confirming high heterogeneity.
+*   **Enhancement Pattern:** The overall enhancement pattern is "SOLID_ENHANCING".
+
+## 3. Derived Metrics & Infiltration
+*   **Peritumoral FLAIR:** Ratio of 1.761, indicating significant peritumoral FLAIR signal alteration.
+*   **Edema to Tumor Core Ratio:** 0.0208, suggesting minimal edema relative to the tumor core volume.
+*   **Infiltration Category:** Moderate infiltration ("MODERATE_INFILTRATION") is indicated.
+
+## 4. Overall Assessment
+*   The tumor is characterized as **moderate in size**, located in the **left frontal lobe**, with **midline invasion**.
+*   It has a **highly irregular shape** and is **multicentric**.
+*   Significant **cortical and ependymal involvement** is noted.
+*   The tumor exhibits **high-grade malignancy features** due to its **high heterogeneity** and **solid enhancing pattern**.
+*   There is **moderate peritumoral reaction** (FLAIR alteration) but relatively **minimal edema**.
+
+## Conclusion
+This tumor presents with complex features: multicentricity, significant midline crossing, high-grade morphological and textural heterogeneity, and confirmed cortical and ependymal involvement. The moderate infiltration category suggests potential for local spread. Further clinical and diagnostic correlation (e.g., histopathology if available) is essential for definitive grading and treatment planning.
+
+---

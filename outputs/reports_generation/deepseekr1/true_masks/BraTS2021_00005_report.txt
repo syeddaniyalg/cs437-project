@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, left frontal lesion with significant mass effect and peritumoral edema. The lesion measures 124.78 mL in total volume (T2/FLAIR) and exhibits an irregular shape with a sphericity index of 0.69. Enhancement is heterogeneous, with a necrotic component comprising 24.18 mL (19.38% of total volume). The tumor extends 5 mm from the ventricular system, confirming ependymal contact, and involves the cortex. Peritumoral edema is extensive, with a FLAIR ratio of 2.0368 and edema-to-tumor core ratio of 1.5974. The lesion is confined to one hemisphere (left) and does not cross midlines or involve bilateral structures.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype), based on the presence of necrosis (19.38% necrotic volume) which, according to guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS), mandates Grade 4 designation in the IDH-wildtype molecular pathway. The heterogeneous enhancement and significant peritumoral edema further support an aggressive glioma phenotype. The VASARI classification confirms a primary glioma as the likely etiology, with CNS lymphoma, metastasis cluster, and abscess ruled out (ID: VASARI-PRIMARY-GLIOMA).
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resectability is assessed as potentially significant, given the unifocal nature and the presence of ependymal contact and cortical involvement.
+    *   Given the tumor's location in the left hemisphere, which is likely dominant for language functions, awake craniotomy with cortical mapping is strongly indicated (ID: ELOQUENT-CORTEX-LEFT) to minimize functional deficits.
+
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Radiation Contouring Modifications:**
+        *   Due to ependymal contact, the Clinical Target Volume (CTV) must be expanded to include the ipsilateral ventricular wall (ID: RTOG-CTV-EPENDYMAL).
+        *   Cortical involvement necessitates truncating the CTV margin at the inner table of the skull; no expansion into the bone/air interface is permitted (ID: RTOG-CTV-CORTICAL).
+        *   Stereotactic Radiotherapy (SRS) is contraindicated as the maximum 3D diameter exceeds 30 mm (ID: RTOG-SRS-EXCLUSION).
+    *   **RANO Warnings:**
+        *   The high edema-to-tumor core ratio (1.5974) indicates an edema-dominant phenotype, creating a high risk for pseudo-response to anti-VEGF therapy. Baseline MRI before initiating anti-VEGF treatment is strongly recommended (ID: RANO-PSEUDORESPONSE).

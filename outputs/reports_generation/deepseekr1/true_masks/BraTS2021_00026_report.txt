@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion measuring 71.556 mL (max diameter 86.86 mm) with highly irregular borders. The lesion exhibits solid, contrast-enhancing characteristics with significant peritumoral edema evidenced by a FLAIR ratio of 1.7081 and edema-to-tumor core ratio of 1.1292. Cortical involvement is confirmed, and ependymal contact is present. The tumor extends 5 mm from the ventricular surface but does not cross midlines. Minimal necrosis (3.68 mL) is present within the enhancing component. The lesion is classified as VERY_LARGE volume and falls within the RASARI classification as HIGHLY_IRREGULAR with SOLID_ENHANCING pattern.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (anaplastic astrocytoma) or glioblastoma multiforme (GBM), pending molecular confirmation. This diagnosis is supported by the presence of necrosis (WHO-GBM-NECROSIS guideline), which mandates a WHO Grade 4 designation in the IDH-wildtype molecular pathway. While the lesion demonstrates cortical involvement and significant edema, these features are non-specific and do not alter the primary diagnostic consideration based on the necrosis finding. The molecular subtype is predicted to be IDH-wildtype based on the WHO classification rules triggered by the necrosis finding. This diagnosis is provisional pending histopathological and molecular confirmation.
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered clinical guidelines:
+
+*   **Surgical Oncology:**
+    *   The lesion is unifocal and located in the right frontal lobe. Resection is strongly recommended as the primary treatment modality.
+    *   Preoperative functional MRI and potentially awake mapping should be performed due to the location in the dominant hemisphere to minimize risks to eloquent cortex.
+    *   Given the significant size (>30mm) and cortical involvement, wide resection is the goal, but neurological function must remain the priority.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG-CTV-EPENDYMAL guideline, a mandatory CTV expansion must be included to encompass the ipsilateral ventricular wall due to confirmed ependymal contact.
+    *   Per RTOG-CTV-CORTICAL guideline, the CTV margin must be truncated at the inner table of the skull; no expansion into the bone/air interface is permitted due to cortical involvement.
+    *   Per RTOG-SRS-EXCLUSION guideline, stereotactic radiosurgery (SRS) is contraindicated as a primary treatment modality due to the lesion volume exceeding 30 mL.
+    *   Standard fractionation schedules for high-grade glioma should be considered. Medical therapy with temozolomide concurrent with radiation and adjuvant temozolomide is recommended following surgical resection, pending final molecular results (including IDH and MGMT status). RANO guidelines caution against misinterpreting patterns of enhancement as progressive disease without considering pseudo-response patterns, particularly in the early post-treatment period.

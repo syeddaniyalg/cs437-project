@@ -1,0 +1,16 @@
+Okay, here is a summary of the key findings from the provided medical report, focusing on the most critical aspects:
+
+**Summary of Key Findings:**
+
+1.  **Location:** The lesion is located in the **frontal lobe**.
+2.  **Size:** The tumor is classified as **VERY_LARGE** based on its volume.
+3.  **Shape:** The tumor has an **IRREGULAR** shape.
+4.  **Enhancement:** It demonstrates **SOLID_ENHANCING** characteristics on contrast imaging.
+5.  **Infiltration:** The tumor shows evidence of **EXTENSIVE_INFILTRATION** into surrounding brain tissue.
+6.  **Heterogeneity:** The tumor is assessed as **HETEROGENEOUS** (highly heterogeneous).
+7.  **Heterogeneity Index:** The calculated heterogeneity index is **0.6298**.
+8.  **Ependymal Involvement:** There is evidence of **ependymal involvement**.
+9.  **Cortical Involvement:** There is evidence of **cortical involvement**.
+10. **Midline Crossing:** There is **no** midline crossing (NONE).
+
+**In short:** This is a large, irregular, highly infiltrative, and heterogeneous brain tumor located in the frontal lobe, with involvement of both ependymal and cortical structures, and solid contrast enhancement.

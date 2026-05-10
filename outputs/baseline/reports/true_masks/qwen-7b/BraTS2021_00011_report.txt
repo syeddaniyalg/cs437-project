@@ -1,0 +1,5 @@
+1. Findings: The MRI slice shows a heterogeneous mass in the left temporal lobe. The mass is predominantly enhancing (red), with a central area of non-enhancing tumor core/necrosis (green). There is surrounding peritumoral edema (blue) extending into the adjacent white matter.
+
+2. Assessment: The mass appears to be a WHO CNS5 Grade III (Anaplastic Astrocytoma) based on the imaging characteristics.
+
+3. Recommendations: Further imaging with contrast-enhanced MRI and possibly a biopsy to confirm the diagnosis and determine the grade. Consider referral to a neuro-oncologist for treatment planning.

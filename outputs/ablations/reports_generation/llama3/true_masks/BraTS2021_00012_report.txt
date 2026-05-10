@@ -1,0 +1,31 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with extension to the occipital lobe and deep structures. The tumor measures approximately 112 mm in its longest diameter and has a volume of 263.809 mL. The enhancement pattern is ring-like, indicating a high likelihood of necrosis. The tumor exhibits extensive infiltration into surrounding brain tissue, with a heterogeneity index of 0.5943.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme. The IDH status is wild-type, and the EGFR status is not provided in this context.
+
+The graph's guidelines support this conclusion by indicating that the tumor's volume, shape, and enhancement pattern are consistent with a high-grade glioma. Additionally, the extensive infiltration into surrounding brain tissue and the presence of necrosis suggest a poor prognosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor is considered resectable, but its location and extent may require awake mapping to minimize eloquent cortex risks.
+* Focality: The tumor is unifocal, with no evidence of multifocal disease.
+
+**Chemotherapy:**
+
+* The patient should receive a standard regimen of temozolomide (TMZ) and radiation therapy (RT) as per the WHO CNS5 guidelines for glioblastoma multiforme.
+* The patient's IDH status is wild-type, which may affect their response to TMZ. Further testing or consultation with an expert in the field may be necessary.
+
+**Radiation Therapy:**
+
+* The patient should receive a standard regimen of RT (60 Gy) as per the WHO CNS5 guidelines for glioblastoma multiforme.
+* The patient's location and extent of disease may require adjustments to their radiation treatment plan.
+
+**Follow-up:**
+
+* The patient should be followed up regularly with imaging studies, including MRI and CT scans, to monitor their response to therapy and detect any potential recurrences or progression of disease.

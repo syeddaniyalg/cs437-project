@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the right frontal lobe, measuring approximately 118.8 mm in maximum diameter. The lesion exhibits solid enhancing features with significant necrosis, accounting for 26.77% of its volume. The tumor has ependymal contact and is situated close to the ventricular system (5 mm). Additionally, it shows cortical involvement and has satellites. The volumetric analysis reveals a very large tumor volume of 135.545 mL, with a non-enhancing component accounting for 36.287 mL.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma (GBM) in the IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation according to WHO-GBM-Necrosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The tumor's size and location suggest that a gross total resection may be challenging.
+* Focality: The lesion is multicentric, which may impact the feasibility of a complete resection.
+* Eloquent cortex risks: Given the cortical involvement, awake mapping techniques should be considered if the dominant hemisphere is affected.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-Ependymal).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-Cortical).
+* RANO warnings:
+	+ Pseudo-response risk due to significant necrosis.
+* Contraindications: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-Exclusion).

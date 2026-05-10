@@ -1,0 +1,29 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, heterogeneous tumor with irregular shape and extensive infiltration in the right frontal lobe, extending to the deep structures and crossing the midline. The tumor has multiple satellite lesions and exhibits significant heterogeneity in terms of enhancement pattern, texture, and intensity features. The volumetric analysis reveals a very large tumor volume (>100 mL) with a high proportion of enhancing tissue (55.5%) and necrosis (44.5%). The tumor's centroid is located at MNI coordinates (-148, 109.01, 74.66), indicating a right-sided lesion.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's extensive infiltration, irregular shape, and heterogeneous enhancement pattern are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size, location, and heterogeneity suggest that surgical resection may be challenging.
+* Focality: The presence of multiple satellite lesions indicates that the tumor is multifocal, which may impact the feasibility of complete resection.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain, including the tumor and surrounding edema, should be included in the radiation treatment planning.
+* Dose and fractionation: A standard glioblastoma regimen with 60 Gy in 30 fractions over 6 weeks is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) is a suitable first-line chemotherapy agent for this patient, given the IDH-wildtype molecular subtype.
+* TMZ should be administered at a dose of 200 mg/m² daily for 5 days every 28 days, in combination with radiation therapy.
+
+**Follow-up:**
+
+* Post-operative imaging and clinical follow-up are essential to monitor the tumor's response to treatment and detect any potential recurrences or new lesions.

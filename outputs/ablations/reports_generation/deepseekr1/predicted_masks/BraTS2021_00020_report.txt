@@ -1,0 +1,35 @@
+Okay, here is a structured report summarizing the key characteristics of the described brain tumor based *strictly on the provided data*.
+
+**Brain Tumor Imaging Report**
+
+**Patient:** [Not Provided]
+**Exam Date:** [Not Provided]
+**Report Date:** [Not Provided]
+
+**Clinical Information:** [Not Provided - This report is based solely on the supplied imaging data]
+
+**Findings:**
+
+1.  **Location & Morphology:**
+    *   **Size:** The tumor is classified as **LARGE** in volume based on imaging analysis.
+    *   **Shape:** The tumor has a **REGULAR** shape.
+    *   **Enhancement:** The tumor demonstrates **SOLID_ENHANCING** characteristics with a **HIGH** enhancement intensity.
+    *   **Heterogeneity:** The tumor is assessed as **HETEROGENEOUS**.
+    *   **Infiltration:** The peritumoral infiltration is categorized as **MINIMAL_INFILTRATION**.
+    *   **Lobe:** The primary area of involvement is the **Frontal** lobe.
+    *   **Hemisphere:** The tumor is located in the **RIGHT** hemisphere.
+    *   **Cortical Involvement:** Yes, the tumor involves the cortex.
+    *   **Ependymal Involvement:** Yes, the tumor involves the ependyma.
+    *   **Focality:** The tumor is **UNIFOCAL**.
+    *   **Midline Crossing:** No significant midline crossing is indicated.
+
+2.  **Texture Analysis:**
+    *   **T1ce ET (Enhancement Tissue):** Shows high **GLCM Contrast** (7.4308) and **GLCM Entropy** (7.0541), suggesting complex internal structure and heterogeneity. The GLCM Energy is low (0.0165), further emphasizing complexity. The GLCM IDM (Inverse Difference Moment) indicates moderate uniformity (0.4892). The GLCM Correlation is high (0.8368), suggesting some linear structure. The GLCM Cluster Prominence is very high (23879.2461), indicating potential for clustered patterns. The NGTDM Coarseness is very low (0.000408).
+    *   **FLAIR WT (Water Tissue):** Also shows high **GLCM Contrast** (5.4794) and **GLCM Entropy** (7.3826), indicating significant heterogeneity. GLCM Energy is low (0.0089). GLCM IDM shows moderate uniformity (0.4573). GLCM Correlation is very high (0.902), suggesting strong linear structure. GLCM Cluster Prominence is very high (51058.4375). NGTDM Coarseness is very low (0.000316).
+    *   **T1 TC (Tumor Core):** Shows lower **GLCM Contrast** (2.7158) compared to ET/WT, but still moderate **GLCM Entropy** (6.3314). GLCM Energy is low (0.0201). GLCM IDM indicates moderate uniformity (0.5643). GLCM Correlation is very high (0.9164). GLCM Cluster Prominence is high (31169.6367). NGTDM Coarseness is very low (0.000258).
+
+**Summary:**
+
+This report describes a **LARGE, REGULARLY SHAPED, SOLID-ENHANCING, HETEROGENEOUS** tumor located unilaterally in the **RIGHT** hemisphere, primarily involving the **FRONTAL** lobe. It demonstrates significant internal heterogeneity (reflected in texture metrics) and involves the cortex and ependyma. The infiltration category is **MINIMAL_INFILTRATION**.
+
+**Important Note:** This report is based on imaging and texture analysis data. It does not constitute a pathological diagnosis. Clinical correlation with patient history and other findings is essential for interpretation.

@@ -1,0 +1,16 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right hemispheric lesion confined to the frontal lobe, measuring 137.9 mL in volume with an irregular shape (sphericity 0.6958). The lesion exhibits heterogeneous contrast enhancement and significant surrounding edema (peritumoral FLAIR ratio 1.7602, edema-to-tumor core ratio 1.6545). Cortical involvement is confirmed, with no midline crossing or bilateral extension. Ependymal contact is present, and the lesion extends 5 mm from the ventricular surface. A heterogeneity index of 0.678 and 25.5 mL of necrotic core (18.49% of volume) are noted. The maximum 3D diameter is 80.18 mm.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a WHO Grade 4 astrocytoma (IDH-wildtype) based on the presence of necrosis (proportion_necrosis: 0.1849), which, according to WHO-GBM-NECROSIS guideline, mandates Grade 4 designation in the IDH-wildtype molecular pathway. The VASARI classification confirms an irregular shape and heterogeneous enhancement consistent with a high-grade glioma. Cortical involvement and ependymal contact further support a primary glioma diagnosis (VASARI-PRIMARY-GLIOMA), with CNS lymphoma and metastasis ruled out.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The lesion is unifocal and located in the right frontal hemisphere. Resectability is high, but surgical planning must account for cortical involvement and potential eloquent cortex (e.g., motor/sensory areas). Awake mapping is strongly recommended given the frontal location and cortical involvement to minimize neurological deficits.
+*   **Radiation/Medical Oncology:**
+    *   RTOG guidelines dictate specific contouring modifications: Expand the Clinical Target Volume (CTV) to include the ipsilateral ventricular wall due to ependymal contact (RTOG-CTV-EPENDYMAL).
+    *   Cortical involvement necessitates truncating the CTV margin at the inner table of the skull (no bone/air margin) (RTOG-CTV-CORTICAL).
+    *   RANO guidelines warn against misinterpreting response; pseudo-response risk is elevated due to significant edema (peritumoral_flair_ratio: 1.7602, edema_to_tc_ratio: 1.6545).
+    *   SRS is explicitly contraindicated as the lesion volume exceeds 30 mL (RTOG-SRS-EXCLUSION).

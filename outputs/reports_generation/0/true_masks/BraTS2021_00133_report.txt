@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a highly irregular, heterogeneous tumor with a volume of approximately 80 mL, predominantly located in the right frontal lobe. The lesion exhibits cortical involvement and has satellites. The sphericity index is 0.3547, indicating an irregular shape. Ependymal contact is present, necessitating CTV expansion to include the ipsilateral ventricular wall. The proportion of necrosis is 14.69%, supporting a diagnosis of Grade 4 glioblastoma in the IDH-wildtype pathway.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is WHO Grade 4 Glioblastoma, IDH-wildtype. This conclusion is supported by the presence of necrosis, ependymal contact, and cortical involvement.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's size and location suggest a complex resection requiring awake mapping to minimize eloquent cortex risks.
+* Focality: The multicentric nature of the tumor necessitates a comprehensive surgical approach, potentially involving multiple craniotomies.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Pseudo-response risk due to high heterogeneity index and cortical involvement.
+* Molecular Prior: The frontal predominance without bilateral/midline crossing raises IDH-mutant probability, supporting a molecular subtype of IDH-mutant.
+* Contraindication: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-EXCLUSION).

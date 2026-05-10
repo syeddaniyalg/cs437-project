@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a very large (91.6 mL), multicentric, irregularly shaped mass in the left frontal lobe, exhibiting solid contrast enhancement. The lesion shows significant necrosis (33% of tumor volume) and direct contact with the ependymal lining, with a maximum diameter exceeding 100mm. Cortical involvement is present, evidenced by interface with gray matter. Peritumoral edema is minimal (Flair ratio 0, edema-to-tumor core ratio 0). The tumor does not cross midlines or involve bilateral structures. Satellite lesions are present. The lesion measures 5mm from the ventricular surface.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (glioblastoma), IDH-wildtype subtype. This conclusion is directly supported by the **[SUPPORTS DIAGNOSIS] WHO_Standard guideline (WHO-GBM-NECROSIS)**, which mandates a Grade 4 designation in the IDH-wildtype pathway due to the presence of necrosis. While a **[RAISES PRIOR] MolecularPrior (IDH-MUTANT-PRIOR)** suggests IDH-mutant probability due to frontal predominance, the necrotic feature definitively forces the diagnosis towards the IDH-wildtype pathway according to WHO CNS5 criteria. The volumetrics and multicentricity further align with the expected characteristics of a Grade 4 lesion.
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   Resectability is strongly indicated given the large size and cortical involvement. Pre-operative MRI volumetrics and texture analysis should guide target volume definition.
+    *   **[TRIGGERS SURGICAL WARNING] SurgicalRisk (ELOQUENT-CORTEX-LEFT)** indicates the tumor involves eloquent cortex in the dominant hemisphere. Consequently, **awake craniotomy with cortical mapping is strongly recommended** to delineate functional boundaries and preserve critical speech/language functions during resection.
+
+*   **Radiation/Medical Oncology:**
+    *   **[REQUIRES CLINICAL ACTION] RTOG_Guideline (RTOG-CTV-EPENDYMAL)** mandates CTV expansion to include the ipsilateral ventricular wall due to direct ependymal contact.
+    *   **[REQUIRES CLINICAL ACTION] RTOG_Guideline (RTOG-CTV-CORTICAL)** requires truncating the CTV margin at the inner table of the skull (no bone/air margin) due to cortical involvement.
+    *   **[CONTRAINDICATES] RTOG_Guideline (RTOG-SRS-EXCLUSION)** explicitly contraindicates stereotactic radiosurgery (SRS) as a primary modality due to the lesion volume exceeding 30mL.
+    *   **[RAISES PRIOR] MolecularPrior (IDH-MUTANT-PRIOR)** suggests consideration of upfront radiochemotherapy with temozolomide for an IDH-mutant glioma, although the definitive diagnosis points to IDH-wildtype. Treatment planning should incorporate this potential molecular scenario alongside the established Grade 4 diagnosis.
+    *   Per RANO guidelines, caution is advised for potential pseudo-response, particularly given the high necrosis and contrast enhancement pattern. Serial imaging should incorporate quantitative radiomic metrics for objective assessment of treatment response.

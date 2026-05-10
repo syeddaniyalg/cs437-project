@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, heterogeneous tumor with irregular shape and minimal infiltration in the left frontal lobe, extending to the deep structures and involving the ependyma. The tumor exhibits a heterogeneous enhancement pattern with absent enhancement intensity. The volumetric analysis reveals a very large tumor volume (>72 mL) with a high sphericity index (0.4652). The texture features indicate a high degree of heterogeneity, with a cluster prominence score of 17735.0742 and a maximum probability score of 0.1742.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's guidelines for necrosis forcing Grade 4 diagnosis and the high entropy score indicating a heterogeneous tumor.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that surgical resection may be feasible, but further evaluation is needed to determine the optimal approach.
+* Focality: The multilocular nature of the tumor requires a comprehensive surgical strategy to ensure complete removal.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: Given the tumor's proximity to eloquent cortex and ependyma, CTV expansion for ependymal contact and cortical truncation may be necessary.
+* RANO warnings: The graph's warning regarding pseudo-response risk in IDH-wildtype glioblastomas should be considered when designing the treatment plan.
+
+Note: The report is strictly grounded in the provided Knowledge Graph context and does not include any hypothetical or speculative information.

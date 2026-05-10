@@ -1,0 +1,34 @@
+Okay, here is an analysis of the provided brain tumor imaging data, structured according to the requested format:
+
+---
+
+## Brain Tumor Imaging Analysis
+
+### 1. Location and Size
+*   **Hemisphere:** Right
+*   **Primary Lobe:** Frontal
+*   **Focality:** Unifocal (single dominant lesion)
+*   **Midline Crossing:** Only the Tumor (White Matter - WT) component crosses midline.
+*   **Ependymal Involvement:** Yes
+*   **Cortical Involvement:** Yes
+*   **Volume:** VERY_LARGE
+
+### 2. Enhancement
+*   **Pattern:** SOLID_ENHANCING
+*   **Level:** LOW
+
+### 3. Infiltration
+*   **Category:** MODERATE_INFILTRATION
+
+### 4. Texture/Heterogeneity
+*   **Heterogeneity Category:** HETEROGENEOUS
+*   **Heterogeneity Index:** 0.6384
+*   **Texture Analysis Features:** Contributions from standard deviation (std_contribution = 1.0) and entropy (entropy_contribution = 0.7103) appear particularly significant in defining the tumor's texture characteristics.
+
+### 5. Derived Metrics
+*   **Peritumoral FLAIR Ratio:** 1.6872 (Slightly elevated, suggesting some degree of peritumoral signal alteration)
+*   **Edema to Tumor Core Volume Ratio:** 41.8822 (Indicates a substantial component of surrounding edema relative to the enhancing core)
+
+## Conclusion
+
+This lesion is a **very large, unifocal tumor** located predominantly in the **right frontal lobe**, with **involvement of both cortex and ependyma**. It demonstrates **solid, low-contrast enhancement** and is characterized as having **moderate infiltration** and **heterogeneous texture**. The derived metrics suggest significant surrounding edema (Edema/TC ratio) and some peritumoral FLAIR alteration.

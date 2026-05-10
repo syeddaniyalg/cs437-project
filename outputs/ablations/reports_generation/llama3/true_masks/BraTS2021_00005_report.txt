@@ -1,0 +1,25 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe of the left hemisphere, with significant infiltration into the surrounding brain tissue. The tumor measures approximately 124.783 mL in volume and exhibits heterogeneous enhancement on T1-weighted images. The lesion shows extensive edema and necrosis, with a high degree of heterogeneity in its texture features.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic analysis and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-amplified. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's size, shape, and enhancement pattern are consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that a gross total resection may be feasible.
+* Focality: The lesion is unifocal, which supports the possibility of a single surgical procedure.
+* Eloquent cortex risks: Due to the tumor's proximity to eloquent cortex, awake mapping techniques should be considered during surgery.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV (Clinical Target Volume): The entire tumor volume, including any areas of enhancement or edema.
+	+ PTV (Planned Treatment Volume): The CTV with a 1.5-2 cm margin to account for setup errors and internal motion.
+* Chemotherapy: Consider administering temozolomide as part of the treatment regimen.
+
+Note: These recommendations are based on the radiomic analysis and categorical profile, but should be confirmed through further clinical evaluation and consultation with a multidisciplinary team.

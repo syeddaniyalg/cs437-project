@@ -1,0 +1,38 @@
+Okay, here is a structured clinical summary based on the provided dataset:
+
+**Clinical Report Summary**
+
+**Patient:** [Patient Name/ID - Not provided in dataset]
+**Findings:** Significant brain tumor identified.
+
+## 1. Location & Morphology
+*   **Location:** Primarily located in the **frontal** lobe.
+*   **Volume:** Classified as **VERY_LARGE**.
+*   **Shape:** Described as **IRREGULAR**.
+*   **Cortical Involvement:** Confirmed (cortex is involved).
+*   **Ependymal Involvement:** Confirmed (ependymal involvement present).
+*   **Midline Crossing:** None detected.
+
+## 2. Enhancement & Heterogeneity
+*   **Enhancement Pattern:** **SOLID_ENHANCING**.
+*   **Enhancement Intensity:** **HIGH**.
+*   **Heterogeneity:** Classified as **HETEROGENEOUS** (both in volume and texture analysis).
+
+## 3. Infiltration
+*   **Infiltration Category:** **MODERATE_INFILTRATION**.
+
+## 4. Peritumoral Changes
+*   **Peritumoral FLAIR:** Ratio indicates **HIGH** peritumoral signal alteration.
+
+## 5. Clinical Implications
+*   The large, irregular, highly enhancing tumor in the frontal lobe with confirmed cortical and ependymal involvement suggests a significant mass lesion. Symptoms may include focal neurological deficits, seizures, or increased intracranial pressure, depending on size and location.
+*   The heterogeneous appearance raises considerations about tumor grade, cellular heterogeneity, and potential for varied biological behavior.
+*   Moderate infiltration suggests spread into surrounding brain tissue.
+
+## 6. Recommendations
+*   Further clinical evaluation (neurological exam, symptom assessment).
+*   Correlation with clinical history and other diagnostic tests (if available).
+*   Consideration of biopsy/histopathology for definitive diagnosis and grading.
+*   Potential for multimodal treatment planning (surgery, radiation, chemotherapy) based on confirmed diagnosis.
+
+This summary distills the key quantitative and qualitative features from the dataset into a clinically relevant overview.

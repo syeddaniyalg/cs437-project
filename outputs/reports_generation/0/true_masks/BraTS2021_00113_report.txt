@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a highly irregular, solid-enhancing tumor with a large volume (>30mm) located in the right frontal lobe. The lesion exhibits ependymal contact and proximity to the ventricular system, necessitating CTV expansion to include the ipsilateral ventricular wall. Cortical involvement is also detected, prompting cortical truncation at the inner table of the skull. The tumor's heterogeneous appearance with a high entropy value (7.5577) suggests IDH-wildtype pathology.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma (GBM) with an IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, which mandates a Grade 4 designation in the IDH-wildtype pathway (WHO-GBM-Necrosis).
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's size and location suggest that surgical resection may be feasible, but further evaluation is necessary to determine the optimal approach.
+* Focality: The tumor's multicentric nature requires a comprehensive treatment plan.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-Ependymal).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-Cortical).
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's heterogeneous appearance and high entropy value.
+* Molecular Prior: The patient's frontal predominance without bilateral/midline crossing raises the probability of IDH-mutant pathology, which may impact treatment decisions.
+
+Note: SRS as primary modality is contraindicated for lesions > 30mm (RTOG-SRS-Exclusion), and therefore, alternative treatment strategies should be considered.

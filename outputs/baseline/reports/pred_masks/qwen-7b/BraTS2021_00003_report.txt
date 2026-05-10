@@ -1,0 +1,5 @@
+1. Findings: The MRI slice shows a heterogeneous mass in the left temporal lobe. The enhancing tumor (ET) is predominantly located in the periphery, with a central area of tumor core/necrosis (TC). There is significant peritumoral edema (WT/ED) surrounding the tumor.
+
+2. Assessment: The tumor appears to be a WHO CNS5 Grade, indicating a highly malignant glioblastoma multiforme (GBM).
+
+3. Recommendations: Immediate referral to a neuro-oncologist for further evaluation, including biopsy, and discussion of treatment options, which may include surgery, radiation therapy, and chemotherapy.

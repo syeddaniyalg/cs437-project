@@ -1,0 +1,38 @@
+Okay, here is a structured summary of the tumor characteristics based on the provided dataset:
+
+# Tumor Characterization Summary
+
+This summary describes the key characteristics of a unifocal tumor located primarily in the **Right Frontal** lobe.
+
+## 1. Volume & Size
+*   **Category:** VERY_LARGE
+*   **Details:** The tumor is substantial in size, occupying a significant portion of the Right Frontal lobe.
+
+## 2. Shape & Morphology
+*   **Category:** HIGHLY_IRREGULAR
+*   **Details:** The tumor has a complex, non-uniform shape, likely contributing to its large volume.
+
+## 3. Enhancement & Signal Characteristics
+*   **Category:** SOLID_ENHANCING, HIGH
+*   **Details:** The tumor core demonstrates strong, consistent enhancement on contrast imaging, suggesting likely malignancy or high vascularity. The enhancement pattern is solid, meaning the entire lesion enhances uniformly.
+
+## 4. Heterogeneity & Texture
+*   **Category:** HIGHLY_HETEROGENEOUS
+*   **Details:** The tumor shows significant variation in signal intensity and texture within its core and potentially surrounding areas. This heterogeneity is pronounced and may indicate diverse cell types or necrotic components. The heterogeneity index is 0.7418, confirming this high level of variation.
+
+## 5. Infiltration
+*   **Category:** MODERATE_INFILTRATION
+*   **Details:** There is evidence of the tumor extending beyond its macroscopic borders into the surrounding brain parenchyma. The infiltration level is moderate.
+
+## 6. Location & Involvement
+*   **Details:** The tumor is unifocal (single focus) and located in the **Right Frontal** lobe. It involves the **ependyma** (lining of ventricles/tubes) and the **cortex** (surface layer of brain tissue).
+
+## 7. Derived Metrics
+*   **Edema-to-Tumor Core Ratio (ed_tc_volume_ratio):** 1.1292 (This ratio is consistent with the high enhancement level).
+*   **Peritumoral FLAIR Ratio:** 1.7081 (Indicates significant peritumoral edema).
+*   **Heterogeneity Index:** 0.7418 (Confirms high heterogeneity).
+*   **Infiltration Category:** MODERATE_INFILTRATION.
+
+## Summary Statement
+
+The tumor is a **RIGHT FRONTAL** lesion that is **VERY LARGE**, **HIGHLY IRREGULAR**, **SOLIDLY ENHANCING**, and **HIGHLY HETEROGENEOUS**. It demonstrates **MODERATE INFILTRATION** into surrounding brain tissue and involves the **ependyma** and **cortex**. The presence of significant peritumoral edema is also noted.

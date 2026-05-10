@@ -1,0 +1,13 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a unifocal, right frontal lesion (AnatomicLocation: Frontal lobe) with a moderate volume (18.46 mL) and regular shape (ShapeCategory: REGULAR). The lesion exhibits solid enhancement (EnhancementPattern: SOLID_ENHANCING) with significant peritumoral edema (edema_to_tc_ratio: 55.4587, peritumoral_flair_ratio: 1.2461). There is cortical involvement (cortical_involvement: True) and ependymal contact (ependymal_contact: True), with no midline crossing (midline_crossing: WT_ONLY) or bilateral involvement (is_bilateral: False). The maximum diameter is 44.4 mm, and the lesion shows moderate heterogeneity (heterogeneity_index: 0.6603). Minimal necrosis (proportion_necrosis: 0.0009) is present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype pathway), necessitated by the presence of necrosis, as per guideline WHO-GBM-NECROSIS. The tumor is located in the right frontal lobe (AnatomicLocation: Frontal) and is unifocal (focality: UNIFOCAL). The molecular subtype is IDH-wildtype, consistent with the WHO Grade 4 classification pathway triggered by necrosis.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The lesion is unifocal and located in the frontal lobe. Standard surgical resection is recommended, with consideration for awake mapping if functional deficits or eloquent cortex involvement is suspected based on preoperative imaging and clinical assessment.
+*   **Radiation/Medical Oncology:**
+    *   **RTOG Radiation Oncology:** Fractionated radiotherapy is indicated. CTV expansion must include the ipsilateral ventricular wall due to ependymal contact (RTOG-CTV-EPENDYMAL). Cortical involvement requires truncation of the CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL). SRS as primary modality is contraindicated due to the lesion size (>30mm) (RTOG-SRS-EXCLUSION). Standard RANO criteria for response assessment apply, with a warning for potential pseudo-response given the solid enhancement pattern.

@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, irregular lesion located in the deep right hemisphere lobe with significant ependymal contact and cortical involvement. The tumor measures 90.46 mL in volume with a maximum diameter of 117.76 mm. Peritumoral edema is minimal (edema-to-tumor core ratio 0.0001). A substantial component of necrosis (24.79% of tumor volume) is present. The lesion extends bilaterally and shows solid contrast enhancement. Midline crossing is absent.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis (>20%), WHO Grade 4 astrocytoma (IDH-wildtype) is assigned, supported by the guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS). The multicentric nature, irregular shape, and solid enhancement are consistent with this diagnosis. Molecular subtype is predicted as IDH-wildtype due to the necrosis forcing Grade 4 classification.
+
+### 3. Clinical Management & Prescriptions
+Actionable recommendations derived from the triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resection is strongly recommended given the large size, bilateral involvement, cortical contact, and necrosis.
+    *   Preoperative functional MRI and potentially awake mapping are required due to cortical involvement and the risk of eloquent cortex resection in the dominant hemisphere.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG-CTV-EPENDYMAL (ID: RTOG-CTV-EPENDYMAL), the Clinical Target Volume (CTV) must be expanded to include the ipsilateral ventricular wall due to ependymal contact.
+    *   Per RTOG-CTV-CORTICAL (ID: RTOG-CTV-CORTICAL), the CTV margin must be truncated at the inner table of the skull for areas of cortical involvement; no bone/air margin is allowed.
+    *   RANO guidelines warn against considering SRS as primary radiation modality due to the lesion size (>30mm max diameter), as per RTOG-SRS-EXCLUSION (ID: RTOG-SRS-EXCLUSION). External beam radiation therapy is mandatory.

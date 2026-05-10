@@ -1,0 +1,39 @@
+Okay, here is a structured report summarizing the key findings from the provided dataset for a suspected brain tumor:
+
+---
+
+# Structured Report: Brain Tumor Imaging Analysis
+
+**Patient:** [Patient Identifier - Not Provided]
+**Date:** [Date of Analysis - Not Provided]
+**Clinical Context:** [Clinical History - Not Provided]
+
+**1. Introduction:**
+This report summarizes the key imaging and derived quantitative features from a dataset suggestive of a primary brain tumor. The analysis focuses on tumor characteristics including size, shape, enhancement pattern, heterogeneity, infiltration, and location.
+
+## 2. Imaging Findings
+
+*   **MRI Characteristics:**
+    *   **Volume:** The tumor is classified as **VERY_LARGE** based on its measured volume.
+    *   **Shape:** The tumor is characterized as **IRREGULAR**.
+    *   **Enhancement:** The tumor demonstrates **RING_ENHANCING** with a **HIGH** enhancement intensity.
+    *   **Heterogeneity:** The tumor is assessed as **HETEROGENEOUS** in both its appearance and internal characteristics.
+    *   **Infiltration:** Quantitative analysis suggests **EXTENSIVE_INFILTRATION** into surrounding brain tissue, indicated by a high edema-to-tumor volume ratio (0.5342) and infiltration category.
+    *   **Location:** The primary lobe involved is **Frontal**, and the hemisphere is **LEFT**. There is evidence of **ependymal involvement** (confirmed by categorical summary) and **cortical involvement**. The tumor does **not** cross major midline structures (midline crossing category: NONE).
+
+*   **Texture Analysis:**
+    *   Further analysis confirms the tumor's **HETEROGENEOUS** nature, with a calculated heterogeneity index of 0.5943.
+    *   Specific texture metrics (e.g., GLCM features from T1ce ET and FLAIR WT) support the assessment of internal complexity and heterogeneity.
+
+## 3. Recommendations
+
+*   The findings suggest a significant, infiltrative, and heterogeneously enhancing brain tumor of substantial size in the left frontal lobe.
+*   Given the complexity and size, a **multidisciplinary approach** involving neurosurgery, medical oncology, and radiation oncology is recommended.
+*   A **biopsy** is strongly advised to obtain a histopathological diagnosis, as imaging alone cannot definitively determine the tumor type (e.g., glioma grade, metastasis) or its full biological behavior.
+*   Further clinical and paraclinical investigations (e.g., neurological assessment, laboratory tests) are necessary to formulate a complete management plan.
+
+## 4. Conclusion
+
+The quantitative and qualitative analysis of the provided dataset indicates a **VERY_LARGE, IRREGULAR, RING_ENHANCING, HETEROGENEOUS, and EXTENSIVELY INFILTRATIVE** brain tumor primarily located in the left frontal lobe with ependymal and cortical involvement. While the imaging features are characteristic of a potentially malignant process, a definitive diagnosis requires histopathological examination.
+
+---

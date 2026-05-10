@@ -1,0 +1,30 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a multilocular tumor with heterogeneous enhancement pattern and irregular shape, primarily located in the left frontal lobe with extension to the deep and occipital lobes. The tumor measures approximately 134.99 mm in its longest diameter, with a volume of 16.006 mL. The peritumoral FLAIR ratio is 1.6681, indicating moderate infiltration. The edema-to-tumor-contrast (ETC) ratio is 0.0069, suggesting minimal edema. The tumor exhibits high heterogeneity index and highly heterogeneous enhancement pattern.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's heterogeneous enhancement pattern, irregular shape, and moderate infiltration are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multilocularity and irregular shape suggest that surgical resection may be challenging.
+* Primary lobe involvement: The left frontal lobe is primarily involved, which may impact the surgical approach.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain, including the primary tumor location and potential microscopic disease, should be included in the radiation treatment plan.
+* Dose and fractionation: A standard glioblastoma regimen of 60 Gy in 30 fractions over 6 weeks is recommended.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) is a suitable first-line chemotherapy agent for glioblastoma. The optimal duration of TMZ treatment has not been established, but a typical course consists of 5-6 cycles.
+* Bevacizumab (Avastin) may be considered as a second-line therapy to target the tumor's vasculature.
+
+**Follow-up and Monitoring:**
+
+* Regular MRI scans with contrast should be performed every 2-3 months to monitor the tumor's response to treatment and detect any potential recurrences.
+* Clinical follow-up should include neurological examinations, laboratory tests (e.g., blood counts, liver function tests), and imaging studies as needed.

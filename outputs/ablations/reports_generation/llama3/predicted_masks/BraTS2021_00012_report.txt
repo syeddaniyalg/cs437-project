@@ -1,0 +1,30 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor with extensive infiltration of the frontal and occipital lobes, as well as deep structures. The tumor exhibits solid enhancing features on T1-weighted images, with minimal necrosis and edema. The primary focus is located in the left frontal lobe, with multiple satellite lesions present. The tumor has a heterogeneous appearance on FLAIR and T2-weighted images, with areas of high signal intensity suggesting infiltrative growth.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-amplified. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's irregular shape, extensive infiltration, and heterogeneous appearance on FLAIR and T2-weighted images are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor is considered resectable, but its location and extent may require awake mapping to minimize eloquent cortex risks.
+* Focality: The multilocular nature of the tumor requires a comprehensive surgical approach to achieve complete resection.
+
+**Radiation Therapy:**
+
+* Target volume: The entire brain, including the primary focus and satellite lesions, should be included in the radiation treatment plan.
+* Dose and fractionation: A standard dose of 60 Gy in 30 fractions is recommended, with consideration for concurrent chemotherapy.
+
+**Chemotherapy:**
+
+* Temozolomide (TMZ) is a suitable first-line agent for this patient, given the IDH-wildtype molecular subtype. TMZ should be administered at a dose of 200 mg/m² daily for 5 days every 28 days.
+* Bevacizumab may be considered as a second-line agent to target vascular endothelial growth factor (VEGF) and improve treatment outcomes.
+
+**Follow-up:**
+
+* Regular MRI scans with contrast enhancement should be performed every 2-3 months to monitor tumor response and detect any potential recurrences.
+* Clinical follow-up should include neurological examinations, laboratory tests, and imaging studies as needed.

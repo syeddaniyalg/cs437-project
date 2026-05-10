@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a highly irregular, unifocal lesion in the right frontal lobe, classified as VERY_LARGE by volume (89.26 mL) with a heterogeneous appearance. The tumor exhibits SOLID_ENHANCING characteristics and significant peritumoral edema evidenced by elevated edema-to-tumor core ratio (10.68) and peritumoral FLAIR ratio (1.3183). Cortical involvement is confirmed, with no midline crossing or bilateral involvement noted. Ependymal contact is present, and the lesion extends 5mm from the ventricular surface. The shape is characterized as HIGHLY_IRREGULAR with a sphericity coefficient of 0.3335 and substantial heterogeneity (heterogeneity index 0.7416). Minimal necrosis (0.98% volume) is present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Per the WHO CNS5 classification and the triggered guideline **[SUPPORTS DIAGNOSIS] WHO_Standard (id: WHO-GBM-NECROSIS)**, the tumor is assigned WHO Grade 4 due to the presence of necrosis, which mandates this designation in the IDH-wildtype molecular pathway. The triggered guideline **[RAISES PRIOR] MolecularPrior (id: IDH-MUTANT-PRIOR)** raises suspicion for IDH-mutant glioma based on frontal predominance, but the presence of necrosis **[SUPPORTS DIAGNOSIS] WHO_Standard (id: WHO-GBM-NECROSIS)** overrides this prior, confirming the diagnosis as IDH-wildtype glioblastoma multiforme (GBM).
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resection is strongly recommended given the large size, cortical involvement, and potential for significant neurological deficits. The unifocal location supports macroscopic resection as the primary goal.
+    *   Given the confirmed cortical involvement (cortical involvement: True) and the location in the dominant hemisphere (Hemisphere: {'side': 'RIGHT'}), preoperative or intraoperative awake mapping is strongly advised to preserve eloquent cortex.
+
+*   **Radiation/Medical Oncology:**
+    *   Per **[REQUIRES CLINICAL ACTION] RTOG_Guideline (id: RTOG-CTV-EPENDYMAL)**, definitive radiotherapy requires mandatory expansion of the Clinical Target Volume (CTV) to include the ipsilateral ventricular wall due to ependymal contact.
+    *   Per **[REQUIRES CLINICAL ACTION] RTOG_Guideline (id: RTOG-CTV-CORTICAL)**, radiotherapy planning must truncate the CTV margin at the inner table of the skull (no bone/air margin) due to cortical involvement.
+    *   Per **[CONTRAINDICATES] RTOG_Guideline (id: RTOG-SRS-EXCLUSION)**, Stereotactic RadioSurgery (SRS) as a primary modality is contraindicated for this lesion measuring 93.27 mm in maximum diameter.
+    *   Medical oncology consultation is recommended for consideration of concurrent chemotherapy (e.g., temozolomide) following standard adjuvant therapy protocols for IDH-wildtype glioma.

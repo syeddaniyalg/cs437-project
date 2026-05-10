@@ -1,0 +1,17 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multifocal, very large (70.184 mL) left frontal lesion with an irregular shape and solid enhancing component. The tumor exhibits significant heterogeneity (heterogeneity index 0.6971) and substantial peritumoral edema (edema-to-tumor core ratio 6.4911). Cortical involvement is confirmed, with ependymal contact present and proximity to the ventricle (5 mm). The lesion extends ipsilaterally (>30mm) and shows multifocal characteristics. Minimal necrosis (proportion 0.0002) is present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype), necessitated by the presence of necrosis, as per guideline WHO-GBM-NECROSIS (ID: WHO-GBM-NECROSIS). The tumor is located in the left frontal lobe.
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   The tumor is situated in the dominant hemisphere, triggering the need for awake craniotomy with functional mapping to assess and preserve eloquent cortex, as per guideline ELOQUENT-CORTEX-LEFT (ID: ELOQUENT-CORTEX-LEFT).
+
+*   **Radiation/Medical Oncology:**
+    *   **Contouring Modifications:** Due to ependymal contact, ipsilateral ventricular wall inclusion is required within the Clinical Target Volume (CTV), as per guideline RTOG-CTV-EPENDYMAL (ID: RTOG-CTV-EPENDYMAL). Cortical involvement necessitates truncating the CTV margin at the inner table of the skull (no bone/air margin), as per guideline RTOG-CTV-CORTICAL (ID: RTOG-CTV-CORTICAL).
+    *   **Treatment Consideration:** Stereotactic radiosurgery (SRS) as a primary modality is contraindicated due to the lesion volume exceeding 30 mL, as per guideline RTOG-SRS-EXCLUSION (ID: RTOG-SRS-EXCLUSION). Radiation therapy planning must account for the specified CTV modifications and cortical truncation.

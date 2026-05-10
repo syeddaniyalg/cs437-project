@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with deep extension and bilateral involvement. The tumor measures approximately 142.997 mL in volume, with a maximum diameter of 108.08 mm. The enhancement pattern is solid, and the intensity is high. The tumor exhibits mild infiltration into surrounding brain tissue.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's size, shape, and enhancement pattern are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that it may be resectable, but further evaluation is needed to determine the optimal surgical approach.
+* Focality: The tumor is unifocal, which supports a single surgical procedure.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications: Given the tumor's proximity to eloquent cortex and deep extension, radiation therapy should be carefully planned to minimize damage to surrounding brain tissue. A combination of conformal radiation therapy (CRT) and intensity-modulated radiation therapy (IMRT) may be necessary.
+* Chemotherapy: The patient's IDH-wildtype molecular subtype suggests that they may benefit from temozolomide-based chemotherapy regimens.
+
+Note: Further evaluation and consultation with a multidisciplinary team, including neurosurgeons, radiation oncologists, and medical oncologists, are recommended to develop a comprehensive treatment plan for this patient.

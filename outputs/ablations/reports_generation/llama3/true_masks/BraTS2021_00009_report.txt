@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, highly irregular tumor with multiple foci in the frontal and occipital lobes, crossing the midline. The primary focus is located in the left hemisphere, with significant cortical involvement. The tumor exhibits solid enhancing patterns on T1-weighted images, with high heterogeneity indices suggesting a complex mixture of cell types. The peritumoral FLAIR ratio is elevated, indicating moderate infiltration.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's rules indicating that necrosis forces a grade 4 diagnosis and that texture entropy predicts an IDH-wildtype status.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multifocal nature and cortical involvement suggest that surgical resection may be challenging, but not impossible.
+* Focality: Given the multiple foci, a subtotal resection or biopsy may be necessary to achieve optimal tumor control.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring: The graph's rules recommend using a standard glioblastoma radiation protocol with a total dose of 60 Gy in 30 fractions.
+* Chemotherapy: Triggered guidelines suggest that temozolomide (TMZ) is an appropriate first-line chemotherapy agent for this diagnosis.

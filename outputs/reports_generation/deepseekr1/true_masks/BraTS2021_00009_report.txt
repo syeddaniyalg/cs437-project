@@ -1,0 +1,14 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multifocal, left frontal lesion with a maximum diameter of 88 mm and a volume of 27.45 mL, classified as large by volumetric criteria. The tumor exhibits a highly irregular shape (low sphericity: 0.4735) with solid enhancement. Minimal necrosis (proportion_necrosis: 0.014) is present, but significant peritumoral edema is evident, with a high edema-to-tumor core ratio (13.72) and elevated peritumoral FLAIR ratio (1.5014). Cortical involvement is confirmed, and the lesion shows ependymal contact without satellite nodules. Midline crossing is limited to the tumor itself (WT_ONLY).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (anaplastic astrocytoma or glioblastoma multiforme), designated as IDH-wildtype based on the mandatory Grade 4 classification triggered by the presence of necrosis (WHO Guideline ID: WHO-GBM-NECROSIS). The tumor's large volume, cortical involvement, and solid enhancement further support this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:** The tumor's location in the left hemisphere, potentially involving eloquent cortex, necessitates awake mapping during resection to preserve critical functions (SurgicalRisk ID: ELOQUENT-CORTEX-LEFT).
+*   **Radiation/Medical Oncology:**
+    *   Radiation therapy requires specific contouring modifications: Expand the Clinical Target Volume (CTV) to include the ipsilateral ventricular wall due to ependymal contact (RTOG Guideline ID: RTOG-CTV-EPENDYMAL) and truncate the CTV margin at the inner table of the skull due to cortical involvement (RTOG Guideline ID: RTOG-CTV-CORTICAL).
+    *   Stereotactic radiosurgery (SRS) is contraindicated as a primary modality due to the lesion's size exceeding 30 mm (RTOG Guideline ID: RTOG-SRS-EXCLUSION). Standard fractionation radiotherapy is recommended, with close monitoring for pseudo-response given the high edema index (RANO warning implied by high edema ratio).

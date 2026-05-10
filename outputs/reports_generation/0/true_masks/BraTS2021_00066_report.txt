@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, with a solid enhancing pattern and significant necrosis (proportion_necrosis: 0.0483). The lesion exhibits ependymal contact and proximity to the ventricular system, necessitating CTV expansion to include the ipsilateral ventricular wall. Cortical involvement is also detected, warranting cortical truncation at the inner table of the skull. The tumor's midline crossing is limited to the weight-bearing only (midline_crossing: WT_ONLY), with no evidence of bilateral involvement.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma (WHO_Standard: {'grade': 4, 'description': 'Presence of necrosis mandates Grade 4 designation in IDH-wildtype pathway.', 'id': 'WHO-GBM-NECROSIS', 'molecular_subtype': 'IDH-wildtype'}). This diagnosis is supported by the presence of significant necrosis and the tumor's location in the dominant hemisphere, which triggers a warning for awake craniotomy mapping to preserve speech.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The lesion's size (max_3d_diameter_mm: 62.66) and irregular shape may require a more extensive resection.
+* Focality: The tumor is unifocal, allowing for a targeted surgical approach.
+* Eloquent cortex risks: Due to the dominant hemisphere involvement, awake craniotomy mapping is indicated to preserve speech.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG_Guideline: {'domain': 'Radiation Oncology', 'recommendation': 'CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact.', 'id': 'RTOG-CTV-EPENDYMAL'}).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG_Guideline: {'domain': 'Radiation Oncology', 'recommendation': 'Cortical involvement detected. Truncate CTV margin at the inner table of the skull (no margin into bone/air).', 'id': 'RTOG-CTV-CORTICAL'}).
+* RANO warnings:
+	+ Pseudo-response risk: The presence of necrosis may lead to a pseudo-response, necessitating careful monitoring and consideration for salvage therapy.

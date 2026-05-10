@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, irregular mass located in the left frontal lobe, classified as VERY_LARGE by volume (117.996 mL). The lesion exhibits solid enhancing characteristics with significant peritumoral edema evidenced by a high peritumoral FLAIR ratio (2.1083) and edema-to-tumor core ratio (1.9945). Cortical involvement is confirmed, and ependymal contact is present. The tumor displays moderate heterogeneity (heterogeneity index 0.6483) and contains approximately 10.36% necrosis. The maximum diameter is 93.28 mm, with no midline crossing or bilateral involvement. Ipsilateral ventricular proximity (5 mm) is noted, and tumor satellites are present.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (glioblastoma multiforme), IDH-wildtype subtype. This conclusion is directly supported by the **[SUPPORTS DIAGNOSIS] WHO-GBM-NECROSIS** guideline, which mandates a Grade 4 designation in the IDH-wildtype pathway due to the presence of necrosis (proportion_necrosis: 0.1036). The frontal lobe location and multicentric pattern are consistent with this diagnosis. While a **[RAISES PRIOR] IDH-MUTANT-PRIOR** is suggested by frontal predominance, the necrosis finding overrides this, confirming the IDH-wildtype classification.
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   Gross Total Resection (GTR) is unlikely due to the multicentric nature, significant edema, cortical involvement, and presence of satellites. Biopsy for molecular confirmation is indicated.
+    *   **[TRIGGERS SURGICAL WARNING] ELOQUENT-CORTEX-LEFT** mandates consideration for awake craniotomy with cortical mapping to delineate functional language cortex and minimize postoperative deficits.
+
+*   **Radiation/Medical Oncology:**
+    *   Chemoradiotherapy is indicated. The radiation field must be modified based on specific findings:
+        *   **[REQUIRES CLINICAL ACTION] RTOG-CTV-EPENDYMAL**: CTV expansion is required to include the ipsilateral ventricular wall due to ependymal contact.
+        *   **[REQUIRES CLINICAL ACTION] RTOG-CTV-CORTICAL**: Cortical involvement necessitates truncating the CTV margin at the inner table of the skull (no bone/air margin).
+        *   **[CONTRAINDICATES] RTOG-SRS-EXCLUSION**: Lesion size (>30mm) contraindicates SRS as a primary modality.
+    *   **[TRIGGERS CLINICAL WARNING] RANO-PSEUDORESPONSE**: The edema-dominant phenotype creates a high risk for pseudo-response to anti-VEGF agents. Baseline radiographic assessment must be performed before initiating such therapy, and response evaluation must strictly follow RANO criteria to account for this risk.

@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, bilateral frontal lobe lesion with a dominant component in the right hemisphere. The tumor exhibits a highly irregular shape (ShapeCategory: HIGHLY_IRREGULAR) with significant heterogeneity (heterogeneity_index: 0.5785) and necrosis (proportion_necrosis: 0.445). The lesion measures 100.659 mL in volume (VolumeCategory: VERY_LARGE) and extends 5 mm from the ventricular system (ependymal_contact: True) with cortical involvement (cortical_involvement: True). Peritumoral edema is extensive (peritumoral_flair_ratio: 2.0091), and the maximum 3D diameter is 118.26 mm. No midline crossing is identified.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype) based on the presence of necrosis (proportion_necrosis: 0.445), which, according to the triggered guideline WHO-GBM-NECROSIS, mandates a Grade 4 designation in the IDH-wildtype molecular pathway. The tumor's multicentric nature, significant size, and cortical involvement further support a diagnosis of glioblastoma multiforme (GBM).
+
+### 3. Clinical Management & Prescriptions
+
+*   **Surgical Oncology:**
+    *   Resectability is strongly indicated due to the large size, significant edema, and cortical involvement. Bilateral resection is planned given the is_bilateral status.
+    *   Given the cortical involvement and the location in the frontal lobe (which may include eloquent cortex for motor/sensory functions), extensive awake cortical mapping is strongly recommended prior to resection to minimize neurological morbidity.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG guideline RTOG-CTV-EPENDYMAL, a mandatory CTV expansion is required to include the ipsilateral ventricular wall due to confirmed ependymal contact.
+    *   Per RTOG guideline RTOG-CTV-CORTICAL, the CTV margin must be truncated at the inner table of the skull (no bone/air margin) due to cortical involvement.
+    *   Adjuvant concurrent chemoradiotherapy is strongly recommended following surgical resection.
+    *   RANO guideline RTOG-SRS-EXCLUSION contraindicates stereotactic radiosurgery (SRS) as a primary modality due to the lesion size (>30mm). Fractionated radiotherapy is the standard approach.
+    *   Caution is advised regarding pseudo-response assessment given the high peritumoral FLAIR ratio and necrosis. Serial imaging should strictly follow RANO response criteria protocols.

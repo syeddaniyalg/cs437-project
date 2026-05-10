@@ -1,0 +1,29 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with deep extension and bilateral involvement. The tumor measures approximately 178.746 mL in volume, with a maximum diameter of 115.11 mm. The enhancement pattern is solid enhancing, and the heterogeneity index suggests highly heterogeneous tissue. The peritumoral FLAIR ratio is elevated at 2.9695, indicating significant edema.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's size, shape, and enhancement pattern are consistent with a high-grade glioma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's location and size suggest that it may be challenging to resect completely.
+* Focality: The multilocular nature of the tumor requires careful consideration of eloquent cortex risks, particularly in the dominant hemisphere (LEFT).
+* Midline crossing: The tumor does not cross the midline.
+
+**Other Considerations:**
+
+* Ependymal involvement: The tumor involves the ependyma, which may impact surgical planning.
+* Cortical involvement: The tumor extends into the cortical region, requiring careful consideration of functional areas and potential post-operative deficits.
+
+**Recommendations:**
+
+1. Consult with a neurosurgeon to discuss the feasibility of resection and potential risks associated with surgery.
+2. Consider pre-operative functional MRI or other imaging modalities to better understand the tumor's relationship to eloquent cortex.
+3. Develop a comprehensive treatment plan that incorporates surgical, radiation, and systemic therapies.
+
+Note: The above report is based on the provided radiomic features and categorical profile. A thorough clinical evaluation and additional diagnostic tests may be necessary to confirm the diagnosis and develop an individualized treatment plan.

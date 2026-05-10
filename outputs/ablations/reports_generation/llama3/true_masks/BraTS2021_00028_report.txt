@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, highly irregular tumor with moderate enhancement pattern and heterogeneous texture. The tumor is multifocal, involving both frontal and temporal lobes, with a dominant right hemisphere. The primary focus measures approximately 13.7 mL in volume, while the total tumor burden is around 21.2 mL. The tumor exhibits significant infiltration into surrounding brain tissue, with an infiltration index of 0.692.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype. This conclusion is supported by the graph's indication of necrosis forcing a Grade 4 diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multifocal nature and significant infiltration into surrounding brain tissue suggest that surgical resection may be challenging.
+* Focality: Given the tumor's multifocal involvement, eloquent cortex risks are present, particularly in the dominant right hemisphere. Awake mapping techniques may be necessary to minimize functional deficits.
+
+**Radiation/Medical Oncology:**
+
+* Radiation therapy planning: The graph's indication of moderate infiltration into surrounding brain tissue suggests that radiation therapy should prioritize minimizing dose to normal brain tissue.
+* Chemotherapy: IDH-wildtype glioblastoma typically responds poorly to chemotherapy. However, the graph's suggestion of necrosis forcing a Grade 4 diagnosis may indicate a more aggressive tumor biology, warranting further discussion with the patient regarding potential treatment options.
+
+Note: The triggered clinical guidelines and radiomic findings should be used in conjunction with other diagnostic information and clinical expertise to inform patient management decisions.

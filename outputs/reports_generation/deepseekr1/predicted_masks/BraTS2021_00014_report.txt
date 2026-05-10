@@ -1,0 +1,21 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, highly irregular mass located in the right frontal lobe, measuring 20.097 mL in gross tumor volume (WT) and exhibiting ring enhancement. The tumor displays significant necrosis (79.66%) and is in direct contact with the ependymal lining, with a proximity of 5 mm to the ventricular system. Cortical involvement is confirmed, evidenced by cortical enhancement and the presence of satellite lesions. Peritumoral edema is present but minimal (edema-to-tumor core ratio 0.0032), with a moderate peritumoral FLAIR signal alteration (ratio 1.2771). The tumor demonstrates substantial heterogeneity (heterogeneity index 0.718) and a low sphericity (0.3108), reflecting its irregular shape. Midline crossing is limited to the tumor itself (WT_ONLY).
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (IDH-wildtype), primarily supported by the presence of necrosis (WHO-GBM-NECROSIS). The multicentric nature, irregular shape, and cortical involvement align with the clinical presentation. The ependymal contact and large volume further support a diagnosis within the WHO Grade 4 category.
+
+### 3. Clinical Management & Prescriptions
+Based on the integrated analysis and triggered guidelines:
+
+*   **Surgical Oncology:**
+    *   Resectability is strongly indicated due to the presence of necrotic and enhancing components. A wide resection targeting the enhancing component is recommended, with consideration for debulking the necrotic component if feasible.
+    *   Given the cortical involvement and location in the right hemisphere (implicated in motor/sensory functions), preoperative functional MRI and potentially awake mapping are strongly recommended to minimize risks to eloquent cortex.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG guidelines (RTOG-CTV-EPENDYMAL), a mandatory CTV expansion is required to include the ipsilateral ventricular wall due to ependymal contact.
+    *   Per RTOG guidelines (RTOG-CTV-CORTICAL), the CTV margin must be truncated at the inner table of the skull (no bone/air margin) due to cortical involvement.
+    *   RANO guidelines (RTOG-SRS-EXCLUSION) contraindicate stereotactic radiosurgery (SRS) as a primary modality due to the tumor volume exceeding 30 mL.
+    *   Adjuvant whole-brain radiotherapy (WBRT) or fractionated radiotherapy (conformal/IMRT) is strongly recommended following surgical resection, incorporating the specified CTV modifications. Consideration should be given to integrating temozolomide ( TMZ) chemotherapy based on standard protocols for IDH-wildtype glioblastoma multiforme (GBM).

@@ -1,0 +1,27 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+
+Imaging demonstrates a large, irregularly shaped tumor located in the frontal lobe with deep extension and bilateral involvement. The tumor measures approximately 163.643 mL in volume, with a maximum diameter of 116.98 mm. The enhancement pattern is solid enhancing, indicating a high likelihood of malignant tissue. The tumor exhibits minimal infiltration into surrounding brain parenchyma.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma multiforme with IDH-wildtype molecular subtype. This conclusion is supported by the graph's determination of "SUPPORTS_DIAGNOSIS" for the presence of solid enhancement, irregular shape, and minimal infiltration.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's size and location suggest that a gross total resection may be feasible.
+* Focality: Given the multilocular nature of the tumor, a thorough evaluation of eloquent cortex risks is necessary to determine the optimal surgical approach.
+
+**Radiation/Medical Oncology:**
+
+* Radiation contouring modifications:
+	+ CTV expansion for ependymal contact (triggered by "TRIGGERED_CLINICAL_GUIDELINE: EPENDYMAL_INVOLVEMENT")
+	+ Cortical truncation (triggered by "TRIGGERED_CLINICAL_GUIDELINE: CORTICAL_INVOLVEMENT")
+* RANO warnings:
+	+ Pseudo-response risk due to the tumor's heterogeneous nature and minimal infiltration (triggered by "TRIGGERED_CLINICAL_GUIDELINE: HETEROGENEOUS_INFILTRATION")
+
+Note: The graph has triggered specific clinical guidelines that must be incorporated into the patient's management plan.

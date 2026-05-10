@@ -1,0 +1,20 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, irregular mass located in the right frontal lobe, classified as VERY_LARGE by volumetric assessment (109.293 mL). The lesion exhibits solid enhancing characteristics with significant heterogeneity (heterogeneity index 0.5853) and a presence of necrosis (19.74% of tumor volume). There is direct contact with the ependymal lining and cortical involvement (cortical_involvement: True). The tumor extends ipsilaterally to the ventricular proximity (5 mm) and shows satellite lesions (has_satellites: True). Peritumoral edema is minimal (peritumoral_flair_ratio: 0, edema_to_tc_ratio: 0.0). The lesion does not cross midlines or involve bilateral structures.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma, specifically WHO Grade 4 astrocytoma (anaplastic astrocytoma or glioblastoma multiforme), molecularly classified as IDH-wildtype. This diagnosis is supported by the presence of necrosis (WHO-GBM-NECROSIS guideline), which mandates the Grade 4 designation in the IDH-wildtype pathway. An IDH-mutant prior is raised due to frontal predominance without bilateral/midline crossing (IDH-MUTANT-PRIOR), but the WHO classification is based on the deterministic rule from necrosis (WHO-GBM-NECROSIS). The lesion's solid enhancement, multicentricity, and cortical involvement are consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+*   **Surgical Oncology:**
+    *   Resectability is highly recommended given the large volume (109.293 mL) and multicentric nature. Preoperative MRI with functional mapping is essential.
+    *   Given cortical involvement and the right hemisphere location (implicating motor/sensory areas), awake cortical mapping is strongly advised to minimize neurological morbidity. The IDH-mutant hypothesis should guide consideration for molecular profiling post-resection.
+    *   Ependymal contact necessitates careful dissection to avoid CSF diversion or hydrocephalus.
+
+*   **Radiation/Medical Oncology:**
+    *   Per RTOG guidelines (RTOG-CTV-EPENDYMAL), CTV expansion must include the ipsilateral ventricular wall due to ependymal contact.
+    *   Cortical involvement (RTOG-CTV-CORTICAL) requires truncation of the CTV margin at the inner table of the skull (no bone/air margin).
+    *   RANO guidelines caution against misinterpreting response due to infiltration patterns, although no specific pseudo-response trigger was identified in this graph.
+    *   SRS is contraindicated as a primary modality due to the lesion size (>30mm) per RTOG-SRS-EXCLUSION guideline. Conformal radiotherapy or intensity-modulated radiotherapy (IMRT) is recommended.

@@ -1,0 +1,26 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a multifocal tumor located in the frontal lobe with deep extension, measuring approximately 70.18 mL in volume. The tumor exhibits an irregular shape with a solid enhancing pattern and high heterogeneity. The primary focus measures 70,144 voxels, with satellites present. The tumor has ependymal contact and cortical involvement.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic features and categorical profile, the most likely diagnosis is a WHO Grade IV glioblastoma, IDH-wildtype, with molecular subtype EGFR-negative. This conclusion is supported by the graph's triggered clinical guidelines, which indicate that the tumor's high heterogeneity, irregular shape, and solid enhancing pattern are consistent with a glioblastoma.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multifocal nature and deep extension may require a more extensive resection to achieve complete removal.
+* Focality: The primary focus is located in the frontal lobe, while satellites are present; eloquent cortex risks should be considered during surgical planning.
+
+**Radiation/Medical Oncology:**
+
+* RTOG radiation contouring modifications:
+	+ CTV expansion for ependymal contact and cortical involvement.
+	+ Consider using a boost to the primary focus due to its larger size.
+* Medical management:
+	+ Stabilize the patient's condition before initiating treatment.
+	+ Consider combining chemotherapy with radiation therapy, as the tumor's high heterogeneity suggests a potential benefit from this approach.
+
+Note: The above report is generated based on the provided radiomic features and categorical profile. A thorough clinical evaluation and additional diagnostic tests are necessary to confirm the diagnosis and develop an individualized treatment plan.

@@ -1,0 +1,22 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a large, irregularly shaped tumor located in the left frontal lobe, measuring approximately 93.28 mm in maximum diameter. The lesion exhibits solid enhancing features with a high degree of heterogeneity and entropy, indicative of an aggressive glioblastoma. The presence of necrosis (10.36%) supports a Grade 4 designation in the IDH-wildtype pathway. The tumor shows ependymal contact and proximity to the left ventricular wall, necessitating CTV expansion to include the ipsilateral ventricular wall.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic profile and triggered clinical guidelines, the most likely diagnosis is a Grade 4 glioblastoma with an IDH-wildtype molecular subtype. This conclusion is supported by the presence of necrosis, ependymal contact, and cortical involvement.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+* Resectability assessment: The tumor's size and location suggest a complex resection requiring awake mapping to preserve speech.
+* Focality: Multicentric lesions require careful planning to ensure complete resection.
+* Eloquent cortex risks: Awake craniotomy mapping is indicated due to the tumor's presence in the dominant hemisphere.
+
+**Radiation/Medical Oncology:**
+* RTOG radiation contouring modifications:
+	+ CTV expansion required to include ipsilateral ventricular wall due to ependymal proximity/contact (RTOG-CTV-EPENDYMAL).
+	+ Cortical involvement detected; truncate CTV margin at the inner table of the skull (no margin into bone/air) (RTOG-CTV-CORTICAL).
+* RANO warnings:
+	+ Edema-dominant phenotype creates high pseudo-response risk. Establish baseline before anti-VEGF therapy (RANO-PSEUDORESPONSE).

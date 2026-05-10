@@ -1,0 +1,23 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+Imaging demonstrates a multicentric, irregular mass located in the left frontal lobe (AnatomicLocation: Frontal). The lesion measures 178.7 mL in volume (VolumeCategory: VERY_LARGE) with a maximum diameter of 115.11 mm. It exhibits solid enhancing pattern (EnhancementPattern: SOLID_ENHANCING) and shows significant heterogeneity (heterogeneity_index: 0.6298). Peritumoral edema is present but minimal (edema_to_tc_ratio: 0.0005), while the peritumoral FLAIR signal ratio is elevated (peritumoral_flair_ratio: 2.9695). The tumor involves the cortex (cortical_involvement: True) and makes contact with the ependymal lining (ependymal_contact: True) at a distance of 5 mm from the ventricular surface (ventricular_proximity_mm: 5). There is no midline crossing (midline_crossing: NONE) or bilateral involvement (is_bilateral: False). The presence of necrotic components (proportion_necrosis: 0.2595) and tumor satellites (has_satellites: True) further characterizes this lesion.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+The most likely diagnosis is a high-grade glioma. Based on the presence of necrosis (proportion_necrosis: 0.2595), the WHO classification mandates a Grade 4 designation (WHO-GBM-NECROSIS). The molecular subtype is predicted to be IDH-wildtype (WHO-GBM-NECROSIS). While the frontal predominance without bilateral/midline crossing (midline_crossing: NONE, is_bilateral: False) raises a prior for IDH-mutant (IDH-MUTANT-PRIOR), the necrosis dictates the Grade 4 classification in the IDH-wildtype pathway. The tumor's multicentric nature (focality: MULTICENTRIC) and cortical involvement (cortical_involvement: True) are consistent with this diagnosis.
+
+### 3. Clinical Management & Prescriptions
+The following management recommendations are derived from the integrated analysis:
+
+*   **Surgical Oncology:**
+    *   The tumor is located in the left hemisphere (Hemisphere: LEFT), which is likely dominant given the eloquent cortex risk. **Awake craniotomy with electrocortical mapping (Eloquent Cortex Mapping) is strongly recommended (TRIGGERS SURGICAL WARNING) to identify and preserve critical functional areas, particularly speech-related cortices.**
+    *   Resection is indicated, but the multicentric nature (focality: MULTICENTRIC) and large size (max_3d_diameter_mm: 115.11, vol_wt_mL: 178.746) necessitate careful planning. Gross total resection is the goal, but subtotal resection may be considered depending on functional constraints and pathological findings.
+
+*   **Radiation/Medical Oncology:**
+    *   **Contraindication:** Stereotactic radiosurgery (SRS) is contraindicated as a primary modality due to the lesion size exceeding 30 mm (CONTRAINDICATES, RTOG-SRS-EXCLUSION).
+    *   **CTV Expansion:** Due to ependymal contact (ependymal_contact: True), the Clinical Target Volume (CTV) must be expanded to include the ipsilateral ventricular wall (REQUIRES CLINICAL ACTION, RTOG_Guideline: RTOG-CTV-EPENDYMAL).
+    *   **CTV Truncation:** Cortical involvement (cortical_involvement: True) necessitates truncating the CTV margin at the inner table of the skull, with no extension into the bone/air interface (REQUIRES CLINICAL ACTION, RTOG_Guideline: RTOG-CTV-CORTICAL).
+    *   **RANO Warnings:** The presence of necrosis (proportion_necrosis: 0.2595) and the large tumor volume (vol_wt_mL: 178.746) may predispose to radiation-induced necrosis. Treatment response should be monitored using RANO criteria, with vigilance for pseudo-response patterns. The multicentric nature (focality: MULTICENTRIC) may complicate response assessment.
+
+**Molecular Consideration:** While a prior raises the possibility of IDH-mutant glioma (IDH-MUTANT-PRIOR), the presence of necrosis (WHO-GBM-NECROSIS) firmly supports a diagnosis of IDH-wildtype glioma Grade 4 (GBM). Postoperative assessment should include molecular profiling to confirm the IDH-wildtype status.

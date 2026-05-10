@@ -1,0 +1,24 @@
+## CLINICAL RADIOMICS & KNOWLEDGE GRAPH REPORT
+**Patient ID:** UNKNOWN
+
+### 1. Findings (Radiomic & Topographical Summary)
+The imaging demonstrates a multilobar tumor with extensive infiltration of the frontal and deep lobes, crossing the midline. The primary focus is located in the right hemisphere, with multiple satellite foci present. The tumor exhibits a highly irregular shape, with a volume of 8.128 mL. The enhancement pattern is ring-enhancing, with a moderate intensity. The peritumoral FLAIR ratio is 2.8009, indicating significant edema.
+
+### 2. Integrated Diagnosis (WHO CNS5 Framework)
+Based on the radiomic and topographical findings, as well as the triggered clinical guidelines, the most likely diagnosis is a WHO Grade IV glioblastoma with IDH-wildtype molecular subtype. This conclusion is supported by the graph's guidelines for necrosis forcing a Grade 4 diagnosis.
+
+### 3. Clinical Management & Prescriptions
+
+**Surgical Oncology:**
+
+* Resectability: The tumor's multilobar and highly irregular shape suggest that surgical resection may be challenging.
+* Focality: The presence of multiple satellite foci requires careful consideration for complete resection.
+* Eloquent cortex risks: The tumor's location in the frontal lobe raises concerns about potential damage to eloquent cortex.
+
+**Tumor Board Recommendations:**
+
+* Biopsy confirmation: Given the radiomic and topographical findings, a biopsy is recommended to confirm the diagnosis of glioblastoma.
+* Chemoradiation therapy: A multidisciplinary approach involving chemoradiation therapy should be considered for this patient.
+* Clinical follow-up: Close clinical follow-up is necessary to monitor the patient's response to treatment and detect any potential recurrences.
+
+Note: The triggered clinical guidelines have been incorporated into the report, providing a comprehensive summary of the patient's diagnosis and management.

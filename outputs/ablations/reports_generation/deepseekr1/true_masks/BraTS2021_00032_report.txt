@@ -1,0 +1,38 @@
+Okay, here is a structured report summarizing the key findings from the provided dataset:
+
+**Tumor Report Summary**
+
+**1. Location and Size:**
+*   Situated primarily in the **frontal lobe** (primary lobe).
+*   Described as **unifocal** (single dominant area).
+*   Classified as **very large** in volume.
+*   Exhibits an **irregular shape**.
+*   Demonstrates **high enhancement** on contrast imaging.
+*   Involves the **ependymal lining** (likely the ependymal cells lining the ventricles or central canal).
+*   Confirmed **involvement of the cortex** (outer layer of the brain).
+*   Does **not** cross major midline structures.
+
+**2. Appearance and Texture:**
+*   The tumor appears **solid** and shows a **high level of enhancement**.
+*   It is characterized as **heterogeneous** in both its overall appearance and internal texture.
+*   Analysis of texture (using GLCM - Gray Level Co-occurrence Matrix) indicates:
+    *   High **contrast** and **entropy** values in several sequences (T1ce ET, FLAIR WT, T1 TC), suggesting internal complexity and variation in tissue density/signal.
+    *   Specific texture metrics (like `ngtdm_coarseness`) are calculated but fall within ranges typical for heterogeneous tumors.
+*   The overall tumor heterogeneity is categorized as **HETEROGENEOUS**.
+
+**3. Derived Metrics and Surroundings:**
+*   The ratio of peritumoral FLAIR signal to tumor signal is **1.448**, indicating significant surrounding abnormal white matter involvement, often associated with edema.
+*   The Edema-to-Tumor core volume ratio is **6.3156**, confirming a substantial surrounding edema component.
+*   The infiltration category is **MILD_INFILTRATION**, suggesting the tumor core itself may not extensively invade surrounding brain parenchyma beyond the obvious edema zone.
+*   The calculated **Heterogeneity Index** is **0.6475**, reflecting the degree of internal variation.
+*   The overall **Heterogeneity Category** is **HETEROGENEOUS**.
+
+**4. Key Characteristics:**
+*   **Large, Irregular, Highly Enhancing Tumor:** These features often raise suspicion for malignancy.
+*   **Significant Peritumoral Edema:** Indicates potential mass effect and is common in many tumor types.
+*   **Cortical and Ependymal Involvement:** Confirms the tumor's location and potential impact on brain structures.
+*   **Heterogeneous Texture:** Suggests internal complexity, which can be associated with various tumor types.
+*   **Mild Infiltration:** Slightly less concerning in terms of diffuse spread, but the other features (size, location, enhancement) are dominant.
+
+**Overall Impression:**
+This is a **very large, unifocal, irregular, highly enhancing tumor** located in the frontal lobe. It demonstrates significant surrounding edema and is characterized by substantial internal heterogeneity. The finding of ependymal and cortical involvement is confirmed. The infiltration category suggests limited diffuse spread, but the overall presentation is concerning, likely indicating a significant mass lesion requiring further clinical and potentially therapeutic evaluation.
