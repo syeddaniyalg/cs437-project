@@ -1,0 +1,4 @@
+The dataset used in this project is BRaTS 2021, available at:
+https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1?select=BraTS2021_Training_Data.tar
+
+It needs to be download from here and extracted in current directory.
